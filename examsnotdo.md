@@ -20,8 +20,8 @@
 | resMessage| 返回说明 | string | 2 | res |
 | examList| 课程列表 | 对象数组 | 1 | - |
 | createTime| 创建时间| string | 2 | examList|
-| createTime| 创建时间 | string | 3 | lesson|
-| filePath | 文件路径 | string | 3 | lesson|
+| createTime| 创建时间 | string | 3 | examList|
+| filePath | 文件路径 | string | 3 | examList|
 | id| ID | string | 3 | lesson|
 | keyWords | 关键字 | string | 3 | lesson|
 |lessonDesc| 培训内容概述 | string | 3 | lesson|
