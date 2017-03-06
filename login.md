@@ -64,8 +64,8 @@
   ```
   {
     "res": {
-        "code": "1", 
-        "msg": "Operation is successful"
+        "resCode": "1", 
+        "resMessage": "Operation is successful"
     }, 
     "picNews": [
         {
