@@ -40,7 +40,9 @@
         "resMessage": "Operation is successful"
     },
     "examResult":
-       { "during":50},
+       {
+        "during":50
+        },
         ...
 }
 
