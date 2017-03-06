@@ -43,7 +43,7 @@
     },
     "lesson":
     [
-       { "courseName":"语文"},
+       { "lessonSubject":"语文"},
         ...
     ] 
 }
