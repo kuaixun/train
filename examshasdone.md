@@ -8,7 +8,6 @@
 | 字段 | 说明 | 类型 | 必须 |
 | :--- | :--- | :--- | :--- |
 | userId| 用户id | long | 是 |
-| unitId| 单位ID | long | 是 |
 | pageIndex| 当前页码 | int | 否 |
 
 * 返回参数
