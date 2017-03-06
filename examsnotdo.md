@@ -21,8 +21,8 @@
 | examList| 课程列表 | 对象数组 | 1 | - |
 | createTime| 创建时间| string | 2 | examList|
 | createUser| 创建人 | string | 2 | examList|
-| examTime| 考试时长| string | 2 | examList|
-| id| ID | string | 2 | examList|
+| examTime| 考试时长| int| 2 | examList|
+| examType| 试卷类别 | string | 2 | examList|
 | keyWords | 关键字 | string | 2 | examList|
 |lessonDesc| 培训内容概述 | string | 2 | examList|
 |lesson| 文件格式 | int | 2 | examList|
