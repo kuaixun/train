@@ -8,7 +8,7 @@
 
 | 字段 | 说明 | 类型 | 必须 |
 | :--- | :--- | :--- | :--- |
-| unitId| 工号 | long | 是 |
+| unitId| 单位ID | long | 是 |
 
 * 返回参数
 
@@ -33,7 +33,7 @@
 | imgPath1| 课程介绍图片1 | string | 3 | recommandCoursesList|
 | imgPath2| 课程介绍图片2 | string | 3 | recommandCoursesList|
 | imgPath3| 课程介绍图片3 | string | 3 | recommandCoursesList|
-| ifRequired | 是否必修 | int | 3 | recommandCoursesList|
+| unitId| 单位ID | long | 3 | recommandCoursesList|
 | ifRequired | 是否必修 | int | 3 | recommandCoursesList|
 
 * 样例返回
