@@ -23,18 +23,18 @@
 | latestCourseList | 最新课程模块 | 对象数组 | 2 | content |
 | topCourseList| 课程排行榜模块 | 对象数组 | 2 | content |
 | topVideoList | 视频排行榜模块 | 对象数组 | 2 | content |
-| courseDesc| 课程描述 | string | 3 | recommandCoursesList |
-| courseName| 课程名称 | string | 3 | recommandCoursesList|
-| courseSrc| 课程来源 | string | 3 | recommandCoursesList|
-| courseType| 课程分类 | string | 3 | recommandCoursesList|
-| createTime| 创建时间 | string | 3 | recommandCoursesList|
-| id| ID | long | 3 | recommandCoursesList|
-| ifRequired | 是否必修 | int | 3 | recommandCoursesList|
-| imgPath1| 课程介绍图片1 | string | 3 | recommandCoursesList|
-| imgPath2| 课程介绍图片2 | string | 3 | recommandCoursesList|
-| imgPath3| 课程介绍图片3 | string | 3 | recommandCoursesList|
-| unitId| 单位ID | long | 3 | recommandCoursesList|
-| ifRequired | 是否必修 | int | 3 | recommandCoursesList|
+| courseDesc| 课程描述 | string | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| courseName| 课程名称 | string | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| courseSrc| 课程来源 | string | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| courseType| 课程分类 | string | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| createTime| 创建时间 | string | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| id| ID | long | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| ifRequired | 是否必修 | int | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| imgPath1| 课程介绍图片1 | string | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| imgPath2| 课程介绍图片2 | string | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| imgPath3| 课程介绍图片3 | string | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| unitId| 单位ID | long | 3 | recommandCoursesList,latestCourseList,topCourseList|
+| ifRequired | 是否必修 | int | 3 | recommandCoursesList,latestCourseList,topCourseList|
 | clickCount| 点击次数| int | 3 | topVideoList|
 | ifRequired | 是否必修 | int | 3 | recommandCoursesList|
 | ifRequired | 是否必修 | int | 3 | recommandCoursesList|
