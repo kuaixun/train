@@ -42,7 +42,7 @@
     },
     "courseList":
     [
-        "courseName":"语文",
+       { "courseName":"语文"},
         ...
     ] 
 }
