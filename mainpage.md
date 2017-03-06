@@ -25,11 +25,11 @@
 | topVideoList | 视频排行榜模块 | 对象数组 | 2 | content |
 | courseDesc| 课程描述 | string | 3 | recommandCoursesList |
 | courseName| 课程名称 | string | 3 | recommandCoursesList|
-| bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
-| bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
-| bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
-| bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
-| bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
+| courseSrc| 课程来源 | string | 3 | recommandCoursesList|
+| courseType| 课程分类 | string | 3 | recommandCoursesList|
+| createTime| 创建时间 | string | 3 | recommandCoursesList|
+| id| ID | long | 3 | recommandCoursesList|
+| ifRequired | 是否必修 | int | 3 | recommandCoursesList|
 
 * 样例返回
   
