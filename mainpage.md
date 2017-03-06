@@ -42,11 +42,24 @@
     {
        "bannerList":
        [
-           待定。。。
+           {"":""}
        ],
        "recommandCoursesList":
        [
+           {"":""},
        ],
+       "latestCourseList":
+       [
+           {"":""},
+       ],
+       "topCourseList":
+       {
+           {"":""},
+       },
+       "":
+       [
+           {"":""},
+       ]
     } 
 }
 
