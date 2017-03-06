@@ -19,7 +19,7 @@
 | resMessage| 返回说明 | string | 2 | res |
 | examList| 课程列表 | 对象数组 | 1 | - |
 | during| 考试时长| int | 2 | examList|
-| createUser| 创建人 | string | 2 | examList|
+| examEndTime| 考试结束时间 | string | 2 | examList|
 | examTime| 考试时长| int| 2 | examList|
 | examType| 试卷类别 | string | 2 | examList|
 | id | ID | long | 2 | examList|
