@@ -16,6 +16,11 @@
 
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
+| res | 调用结果 | 对象 | 1 | - |
+| reCode | 返回码：（1：成功；其他：失败） | int | 2 | res |
+| resMessage| 返回说明 | string | 2 | res |
+| content| 首页内容 | 对象 | 1 | - |
+| bannerList | banner模块 | 对象数组 | 2 | content |
 | courseDesc| 课程描述 | string | 3 | （课程类通用）|
 | courseName| 课程名称 | string | 3 |（课程类通用）|
 | courseSrc| 课程来源 | string | 3 |（课程类通用）|
