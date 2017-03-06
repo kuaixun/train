@@ -24,9 +24,9 @@
 | examLimitTime| 考试终止时间 | string | 2 | examResult|
 | examStartTime| 考试开始时间 | string | 2 | examResult|
 | examEndTime| 考试结束时间 | string | 2 | examResult|
-| examEndTime| 考试结束时间 | string | 2 | examResult|
-| examEndTime| 考试结束时间 | string | 2 | examResult|
-| examEndTime| 考试结束时间 | string | 2 | examResult|
+| rightCount| 答题正确数| int | 2 | examResult|
+| score| 成绩 | int | 2 | examResult|
+| totalCount| 用户答题总数 | string | 2 | examResult|
 | examEndTime| 考试结束时间 | string | 2 | examResult|
 
 
