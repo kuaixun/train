@@ -19,10 +19,10 @@
 | resMessage| 返回说明 | string | 2 | res |
 | content| 首页内容 | 对象 | 1 | - |
 | bannerList | banner模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
+| recommandCoursesList| 推荐课程模块 | 对象数组 | 2 | content |
+| latestCourseList | 最新课程模块 | 对象数组 | 2 | content |
+| topCourseList| 课程排行榜模块 | 对象数组 | 2 | content |
+| topVideoList | 视频排行榜模块 | 对象数组 | 2 | content |
 | bannerList | banner模块 | 对象数组 | 2 | content |
 | bannerList | banner模块 | 对象数组 | 2 | content |
 | bannerList | banner模块 | 对象数组 | 2 | content |
