@@ -13,7 +13,7 @@
 ## 课堂-培训接口列表
 
 * [课程搜索](searchcourse.md)
-* [courseDetail ](coursedetail.md)
+* [课程详情](coursedetail.md)
 
 ## 课堂-考试接口列表
 
