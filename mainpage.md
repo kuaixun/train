@@ -2,15 +2,13 @@
 
 #### **请求说明**
 
-* 请求方法 userLogin
+* 请求方法 mainPage
 
 * 请求参数
 
 | 字段 | 说明 | 类型 | 必须 |
 | :--- | :--- | :--- | :--- |
-| userCode | 工号 | long | 是 |
-| password | 密码 | string | 是 |
-| imsi | 设备号 | string | 是 |
+| unitId| 工号 | long | 是 |
 
 * 返回参数
 
