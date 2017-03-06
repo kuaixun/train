@@ -19,6 +19,19 @@
 | res | 调用结果 | 对象 | 1 | - |
 | code | 返回码：（1：成功；0：失败） | int | 2 | res |
 | msg | 返回说明 | string | 2 | res |
+| user | 用户信息 | 对象 | 1 | - |
+| address | 地址 | string | 2 | user |
+| centerId | 所在分中心 | string | 2 | user |
+| changePwdTime | 更换密码时间 | string | 2 | user |
+| createtime | 创建时间 | string | 2 | user |
+| currentPhoto | 当前照片文件路径 | string | 2 | user |
+| departmentId | 所在部门 | long | 2 | user |
+| education | 学历 | int | 2 | user |
+| email | 邮箱 | string | 2 | user |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 
 * 一般频道响应示例
