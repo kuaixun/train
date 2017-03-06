@@ -39,9 +39,9 @@
         "resCode": "1", 
         "resMessage": "Operation is successful"
     },
-    "lesson":
+    "examResult":
     [
-       { "lessonSubject":"语文"},
+       { "during":50},
         ...
     ] 
 }
