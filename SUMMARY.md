@@ -15,6 +15,7 @@
 * [课程搜索](searchcourse.md)
 * [课程详情](coursedetail.md)
 * [课件详情](lessoninfo.md)
+* [examsNotDo](examsnotdo.md)
 
 ## 课堂-考试接口列表
 
