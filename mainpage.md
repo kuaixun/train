@@ -42,12 +42,12 @@
 | keyWords | 关键字 | string | 3 | topVideoList|
 |lessonDesc| 培训内容概述 | string | 3 | topVideoList|
 |lesson| 文件格式 | int | 3 | topVideoList|
-|filePath | 文件路径 | string | 3 | topVideoList|
-|filePath | 文件路径 | string | 3 | topVideoList|
-|filePath | 文件路径 | string | 3 | topVideoList|
-|filePath | 文件路径 | string | 3 | topVideoList|
-|filePath | 文件路径 | string | 3 | topVideoList|
-|filePath | 文件路径 | string | 3 | topVideoList|
+|lessonSubject | 课件名称 | string | 3 | topVideoList|
+|mainPoints | 学习要点 | string | 3 | topVideoList|
+|range| 适用范围 | string | 3 | topVideoList|
+|teacher | 讲师 | string | 3 | topVideoList|
+|trainTime | 培训时长 | int | 3 | topVideoList|
+|translateFilePages | 文档页数 | int | 3 | topVideoList|
 
 
 * 样例返回
