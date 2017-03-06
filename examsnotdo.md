@@ -1,9 +1,8 @@
-# 课件详情
+# 未考试卷列表
 
 #### **请求说明**
 
-* 请求方法 findLessonInfoByIds
-
+* 请求方法 findExamsNotDo
 * 请求参数
 
 | 字段 | 说明 | 类型 | 必须 |
