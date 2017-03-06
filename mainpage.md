@@ -17,12 +17,21 @@
 | res | 调用结果 | 对象 | 1 | - |
 | reCode | 返回码：（1：成功；其他：失败） | int | 2 | res |
 | resMessage| 返回说明 | string | 2 | res |
-| msg | 返回说明 | string | 2 | res |
-| msg | 返回说明 | string | 2 | res |
+| content| 首页内容 | 对象 | 1 | - |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | content |
 
 * 样例返回
-
-  ```
   {
     "res": 
     {
