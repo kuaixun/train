@@ -22,7 +22,7 @@
 | examEndTime| 考试结束时间 | string | 2 | examResult|
 | examId| 试卷ID | long | 2 | examList|
 | examLimitTime| 考试终止时间 | string | 2 | examResult|
-| examEndTime| 考试结束时间 | string | 2 | examResult|
+| examStartTime| 考试开始时间 | string | 2 | examResult|
 | examEndTime| 考试结束时间 | string | 2 | examResult|
 | examEndTime| 考试结束时间 | string | 2 | examResult|
 | examEndTime| 考试结束时间 | string | 2 | examResult|
