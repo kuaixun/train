@@ -23,7 +23,7 @@
 | createUser| 创建人 | string | 2 | examList|
 | examTime| 考试时长| int| 2 | examList|
 | examType| 试卷类别 | string | 2 | examList|
-| keyWords | 关键字 | string | 2 | examList|
+| id | ID | long | 2 | examList|
 |lessonDesc| 培训内容概述 | string | 2 | examList|
 |lesson| 文件格式 | int | 2 | examList|
 |lessonSubject | 课件名称 | string | 2 | examList|
