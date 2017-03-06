@@ -30,9 +30,6 @@
 |selectManyNum| 多选题数量 | string | 2 | examList|
 |selectOneNum| 单选题数量 | string | 2 | examList|
 |standardScore| 达标分数线 | string | 2 | examList|
-|selectManyNum| 多选题数量 | string | 2 | examList|
-|selectManyNum| 多选题数量 | string | 2 | examList|
-|selectManyNum| 多选题数量 | string | 2 | examList|
 
 
 * 样例返回
