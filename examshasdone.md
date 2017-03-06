@@ -17,7 +17,7 @@
 | res | 调用结果 | 对象 | 1 | - |
 | reCode | 返回码| int | 2 | res |
 | resMessage| 返回说明 | string | 2 | res |
-| examResult| 课程列表 | 对象数组 | 1 | - |
+| examResult| 课程列表 | 对象 | 1 | - |
 | during| 考试时长| int | 2 | examResult|
 | examEndTime| 考试结束时间 | string | 2 | examResult|
 | examId| 试卷ID | long | 2 | examList|
