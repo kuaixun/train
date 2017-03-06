@@ -26,7 +26,7 @@
 | id | ID | long | 2 | examList|
 |judgeNum| 判断题数量 | int| 2 | examList|
 |questionNum| 简答题数量 | int | 2 | examList|
-|lessonSubject | 课件名称 | string | 2 | examList|
+|remark | 备注 | string | 2 | examList|
 |mainPoints | 学习要点 | string | 3 | lesson|
 |range| 适用范围 | string | 3 | lesson|
 |teacher | 讲师 | string | 3 | lesson|
