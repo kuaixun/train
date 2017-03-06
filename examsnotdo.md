@@ -24,8 +24,8 @@
 | examTime| 考试时长| int| 2 | examList|
 | examType| 试卷类别 | string | 2 | examList|
 | id | ID | long | 2 | examList|
-|lessonDesc| 培训内容概述 | string | 2 | examList|
-|lesson| 文件格式 | int | 2 | examList|
+|judgeNum| 判断题数量 | int| 2 | examList|
+|questionNum| 简答题数量 | int | 2 | examList|
 |lessonSubject | 课件名称 | string | 2 | examList|
 |mainPoints | 学习要点 | string | 3 | lesson|
 |range| 适用范围 | string | 3 | lesson|
