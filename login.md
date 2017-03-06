@@ -16,45 +16,18 @@
 
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
-| reCode | 返回码 | int | 1 |  |
-| msg | 状态码 | string | 2 | news |
-| channelId | 频道ID | long | 2 | news |
-| type | 新闻类型，1普通新闻，2banner新闻，3活动，4图集，5普通专题新闻，6banner专题新闻 | int | 2 | news |
-| open\_type | 打开方式 | int | 2 | news |
-| title | 标题 | string | 2 | news |
-| desc | 描述 | string | 2 | news |
-| imgUrl | 图片 | string | 2 | news |
-| dm | 图片分辨率，宽\*高格式 | string | 2 | news |
-| showType | 展示格式，[参照格式定义](#新闻展示格式定义) | int | 2 | news |
-| bigImg | 是否为大图新闻，1是0否 | string | 2 | news |
-| bannerUrl | banner图或者大图地址 | string | 2 | news |
-| isTop | 是否置顶 | int | 2 | news |
-| time | 发布时间 | long | 2 | news |
-| content | 正文内容，只针对段子频道返回 | string | 2 | news |
-| upCount | 顶数量 | long | 2 | news |
-| downCount | 踩数量 | long | 2 | news |
-| shareCount | 分享数量 | long | 2 | news |
-| isComment | 是否支持评论，1是0否 | int | 2 | news |
-| comment\_count | 评论数量 | long | 2 | news |
-| hot\_comment\_list | 热门评论 | 对象数组 | 2 | news |
-| commentId | 评论ID | long | 3 | hot\_comment\_list |
-| newsid | 新闻ID | long | 3 | hot\_comment\_list |
-| content | 评论内容 | string | 3 | hot\_comment\_list |
-| uid | 用户ID | string | 3 | hot\_comment\_list |
-| did | 用户设备号 | string | 3 | hot\_comment\_list |
-| headPic | 用户头像 | string | 3 | hot\_comment\_list |
-| nickname | 用户昵称 | string | 3 | hot\_comment\_list |
-| hot | 是否热门评论，1是0否 | int | 3 | hot\_comment\_list |
-| createtime | 评论时间 | long | 3 | hot\_comment\_list |
-| location | 位置 | string | 3 | hot\_comment\_list |
+| res | 调用结果 | 对象 | 1 | - |
+| code | 返回码：（1：成功；0：失败） | int | 2 | res |
+| msg | 返回说明 | string | 2 | res |
+|  |  |  |  |  |
 
 * 一般频道响应示例
 
   ```
   {
     "res": {
-        "reCode": "1", 
-        "resMessage": "Operation is successful"
+        "code": "1", 
+        "msg": "Operation is successful"
     }, 
     "picNews": [
         {
