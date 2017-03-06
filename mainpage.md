@@ -17,18 +17,24 @@
 | res | 调用结果 | 对象 | 1 | - |
 | code | 返回码：（1：成功；其他：失败） | int | 2 | res |
 | msg | 返回说明 | string | 2 | res |
+| msg | 返回说明 | string | 2 | res |
+| msg | 返回说明 | string | 2 | res |
+
 * 样例返回
 
   ```
   {
-    "res": {
+    "res": 
+    {
         "resCode": "1", 
         "resMessage": "Operation is successful"
     },
-    "user":{
-        "userName":"张三",
-        "education":"学历"
-        ...
+    "content":
+    {
+       "bannerList":
+       [
+           待定。。。
+       ]
     } 
 }
 
