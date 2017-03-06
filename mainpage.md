@@ -23,13 +23,13 @@
 | latestCourseList | 最新课程模块 | 对象数组 | 2 | content |
 | topCourseList| 课程排行榜模块 | 对象数组 | 2 | content |
 | topVideoList | 视频排行榜模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| bannerList | banner模块 | 对象数组 | 2 | content |
+| courseDesc| 课程描述 | string | 3 | recommandCoursesList |
+| courseName| 课程名称 | string | 3 | recommandCoursesList|
+| bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
+| bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
+| bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
+| bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
+| bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
 
 * 样例返回
   {
