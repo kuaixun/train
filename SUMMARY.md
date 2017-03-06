@@ -16,6 +16,7 @@
 * [课程详情](coursedetail.md)
 * [课件详情](lessoninfo.md)
 * [未考试卷列表](examsnotdo.md)
+* [examsHasDone](examshasdone.md)
 
 ## 课堂-考试接口列表
 
