@@ -41,7 +41,7 @@
 | id| ID | string | 3 | topVideoList|
 | keyWords | 关键字 | string | 3 | topVideoList|
 |lessonDesc| 培训内容概述 | string | 3 | topVideoList|
-|filePath | 文件路径 | string | 3 | topVideoList|
+|lesson| 文件格式 | int | 3 | topVideoList|
 |filePath | 文件路径 | string | 3 | topVideoList|
 |filePath | 文件路径 | string | 3 | topVideoList|
 |filePath | 文件路径 | string | 3 | topVideoList|
