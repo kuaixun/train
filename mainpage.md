@@ -32,12 +32,13 @@
 | bannerList | banner模块 | 对象数组 | 2 | recommandCoursesList|
 
 * 样例返回
+  
   {
     "res": 
-    {
-        "resCode": "1", 
-        "resMessage": "Operation is successful"
-    },
+        {
+            "resCode": "1", 
+            "resMessage": "Operation is successful"
+        },
     "content":
     {
        "bannerList":
