@@ -59,7 +59,7 @@
 | validTime | - | string | 2 | user |
 | zipcode | 邮编 | string | 2 | user |
 
-* 一般频道响应示例
+* 样例返回
 
   ```
   {
