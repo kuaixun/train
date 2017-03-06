@@ -16,7 +16,7 @@
 
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
-| code | 返回码 | int | 1 |  |
+| reCode | 返回码 | int | 1 |  |
 | msg | 状态码 | string | 2 | news |
 | channelId | 频道ID | long | 2 | news |
 | type | 新闻类型，1普通新闻，2banner新闻，3活动，4图集，5普通专题新闻，6banner专题新闻 | int | 2 | news |
