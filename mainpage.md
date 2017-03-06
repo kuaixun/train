@@ -51,7 +51,7 @@
        ],
        "recommandCoursesList":
        [
-           {"":""}
+           {"ID":123456}
            ...
        ],
        "latestCourseList":
