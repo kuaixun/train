@@ -27,12 +27,13 @@
 |judgeNum| 判断题数量 | int| 2 | examList|
 |questionNum| 简答题数量 | int | 2 | examList|
 |remark | 备注 | string | 2 | examList|
-|selectManyNum| 多选题数量 | string | 2 | lesson|
-|range| 适用范围 | string | 3 | lesson|
-|teacher | 讲师 | string | 3 | lesson|
-|trainTime | 培训时长 | int | 3 | lesson|
-|translateFilePages | 转换后文件路径 | string | 3 | lesson|
-|unitId| 单位ID | long | 3 | lesson|
+|selectManyNum| 多选题数量 | string | 2 | examList|
+|selectOneNum| 单选题数量 | string | 2 | examList|
+|standardScore| 达标分数线 | string | 2 | examList|
+|selectManyNum| 多选题数量 | string | 2 | examList|
+|selectManyNum| 多选题数量 | string | 2 | examList|
+|selectManyNum| 多选题数量 | string | 2 | examList|
+
 
 * 样例返回
 
