@@ -19,20 +19,19 @@
 | res | 调用结果 | 对象 | 1 | - |
 | reCode | 返回码：（1：成功；其他：失败） | int | 2 | res |
 | resMessage| 返回说明 | string | 2 | res |
-| content| 首页内容 | 对象 | 1 | - |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| courseDesc| 课程描述 | string | 3 | （课程类通用）|
-| courseName| 课程名称 | string | 3 |（课程类通用）|
-| courseSrc| 课程来源 | string | 3 |（课程类通用）|
-| courseType| 课程分类 | string | 3 | （课程类通用）|
-| createTime| 创建时间 | string | 3 |（课程类通用）|
-| id| ID | long | 3 | （课程类通用）|
-| ifRequired | 是否必修 | int | 3 | （课程类通用）|
-| imgPath1| 课程介绍图片1 | string | 3 | （课程类通用）|
-| imgPath2| 课程介绍图片2 | string | 3 |（课程类通用）|
-| imgPath3| 课程介绍图片3 | string | 3 |（课程类通用）|
-| unitId| 单位ID | long | 3 | （课程类通用）|
-| ifRequired | 是否必修 | int | 3 |（课程类通用）|
+| courseList| 课程列表 | 对象数组 | 1 | - |
+| courseDesc| 课程描述 | string | 3 |courseList|
+| courseName| 课程名称 | string | 3 |courseList|
+| courseSrc| 课程来源 | string | 3 |courseList|
+| courseType| 课程分类 | string | 3 |courseList|
+| createTime| 创建时间 | string | 3 |courseList|
+| id| ID | long | 3 |courseList|
+| ifRequired | 是否必修 | int | 3 |courseList|
+| imgPath1| 课程介绍图片1 | string | 3 |courseList|
+| imgPath2| 课程介绍图片2 | string | 3 |courseList|
+| imgPath3| 课程介绍图片3 | string | 3 |courseList|
+| unitId| 单位ID | long | 3 |courseList|
+| ifRequired | 是否必修 | int | 3 |courseList|
 
 * 样例返回
 
