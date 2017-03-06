@@ -15,8 +15,8 @@
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
 | res | 调用结果 | 对象 | 1 | - |
-| code | 返回码：（1：成功；其他：失败） | int | 2 | res |
-| msg | 返回说明 | string | 2 | res |
+| reCode | 返回码：（1：成功；其他：失败） | int | 2 | res |
+| resMessage| 返回说明 | string | 2 | res |
 | msg | 返回说明 | string | 2 | res |
 | msg | 返回说明 | string | 2 | res |
 
@@ -34,7 +34,10 @@
        "bannerList":
        [
            待定。。。
-       ]
+       ],
+       "recommandCoursesList":
+       [
+       ],
     } 
 }
 
