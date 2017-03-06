@@ -14,6 +14,7 @@
 
 * [课程搜索](searchcourse.md)
 * [课程详情](coursedetail.md)
+* [lessonInfo](lessoninfo.md)
 
 ## 课堂-考试接口列表
 
