@@ -20,13 +20,13 @@
 | resMessage| 返回说明 | string | 2 | res |
 | examList| 课程列表 | 对象数组 | 1 | - |
 | createTime| 创建时间| string | 2 | examList|
-| createTime| 创建时间 | string | 3 | examList|
-| filePath | 文件路径 | string | 3 | examList|
-| id| ID | string | 3 | lesson|
-| keyWords | 关键字 | string | 3 | lesson|
-|lessonDesc| 培训内容概述 | string | 3 | lesson|
-|lesson| 文件格式 | int | 3 | lesson|
-|lessonSubject | 课件名称 | string | 3 | lesson|
+| createTime| 创建时间 | string | 2 | examList|
+| filePath | 文件路径 | string | 2 | examList|
+| id| ID | string | 2 | examList|
+| keyWords | 关键字 | string | 2 | examList|
+|lessonDesc| 培训内容概述 | string | 2 | examList|
+|lesson| 文件格式 | int | 2 | examList|
+|lessonSubject | 课件名称 | string | 2 | examList|
 |mainPoints | 学习要点 | string | 3 | lesson|
 |range| 适用范围 | string | 3 | lesson|
 |teacher | 讲师 | string | 3 | lesson|
