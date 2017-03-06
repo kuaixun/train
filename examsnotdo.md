@@ -27,7 +27,7 @@
 |judgeNum| 判断题数量 | int| 2 | examList|
 |questionNum| 简答题数量 | int | 2 | examList|
 |remark | 备注 | string | 2 | examList|
-|mainPoints | 学习要点 | string | 3 | lesson|
+|selectManyNum| 多选题数量 | string | 2 | lesson|
 |range| 适用范围 | string | 3 | lesson|
 |teacher | 讲师 | string | 3 | lesson|
 |trainTime | 培训时长 | int | 3 | lesson|
