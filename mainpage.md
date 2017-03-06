@@ -35,9 +35,19 @@
 | imgPath3| 课程介绍图片3 | string | 3 | recommandCoursesList,latestCourseList,topCourseList|
 | unitId| 单位ID | long | 3 | recommandCoursesList,latestCourseList,topCourseList|
 | ifRequired | 是否必修 | int | 3 | recommandCoursesList,latestCourseList,topCourseList|
-| clickCount| 点击次数| int | 3 | topVideoList|
-| ifRequired | 是否必修 | int | 3 | recommandCoursesList|
-| ifRequired | 是否必修 | int | 3 | recommandCoursesList|
+| courseId| 课程ID| long | 3 | topVideoList|
+| createTime| 创建时间 | string | 3 | topVideoList|
+| filePath | 文件路径 | string | 3 | topVideoList|
+| id| ID | string | 3 | topVideoList|
+| filePath | 文件路径 | string | 3 | topVideoList|
+|filePath | 文件路径 | string | 3 | topVideoList|
+|filePath | 文件路径 | string | 3 | topVideoList|
+|filePath | 文件路径 | string | 3 | topVideoList|
+|filePath | 文件路径 | string | 3 | topVideoList|
+|filePath | 文件路径 | string | 3 | topVideoList|
+|filePath | 文件路径 | string | 3 | topVideoList|
+|filePath | 文件路径 | string | 3 | topVideoList|
+|filePath | 文件路径 | string | 3 | topVideoList|
 
 
 * 样例返回
