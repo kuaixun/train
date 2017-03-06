@@ -17,7 +17,7 @@
 | res | 调用结果 | 对象 | 1 | - |
 | reCode | 返回码| int | 2 | res |
 | resMessage| 返回说明 | string | 2 | res |
-| courseList| 课程列表 | 对象数组 | 1 | - |
+| courseList| 课程详情 | 对象 | 1 | - |
 | courseDesc| 课程描述 | string | 2 |courseList|
 | courseName| 课程名称 | string | 2 |courseList|
 | courseSrc| 课程来源 | string | 2 |courseList|
