@@ -41,9 +41,8 @@
         "resCode": "1", 
         "resMessage": "Operation is successful"
     },
-    "user":{
-        "userName":"张三",
-        "education":"学历"
+    "courseList":{
+        "courseName":"语文",
         ...
     } 
 }
