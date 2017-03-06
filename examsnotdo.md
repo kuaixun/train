@@ -18,7 +18,7 @@
 | res | 调用结果 | 对象 | 1 | - |
 | reCode | 返回码| int | 2 | res |
 | resMessage| 返回说明 | string | 2 | res |
-| lesson| 课程列表 | 对象 | 1 | - |
+| exams| 课程列表 | 对象 | 1 | - |
 | courseId| 课程ID| long | 3 | lesson|
 | createTime| 创建时间 | string | 3 | lesson|
 | filePath | 文件路径 | string | 3 | lesson|
