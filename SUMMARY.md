@@ -5,10 +5,15 @@
 * [前言](README.md)
 * [重要说明](notice.md)
 
-## 接口列表
+## 共用接口列表
 
-* [接口模板](userlogin.md)
 * [用户登录](login.md)
-* [首页](mainpage.md)
+* [首页内容获取](mainpage.md)
+
+## 课堂-培训接口列表
+
 * [课程搜索](searchcourse.md)
+* [courseDetail ](coursedetail.md)
+
+## 课堂-考试接口列表
 
