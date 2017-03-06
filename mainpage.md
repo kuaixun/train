@@ -35,6 +35,10 @@
 | imgPath3| 课程介绍图片3 | string | 3 | recommandCoursesList|
 | unitId| 单位ID | long | 3 | recommandCoursesList|
 | ifRequired | 是否必修 | int | 3 | recommandCoursesList|
+| clickCount| 点击次数| int | 3 | topVideoList|
+| ifRequired | 是否必修 | int | 3 | recommandCoursesList|
+| ifRequired | 是否必修 | int | 3 | recommandCoursesList|
+
 
 * 样例返回
   
