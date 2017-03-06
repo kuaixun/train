@@ -17,20 +17,21 @@
 | res | 调用结果 | 对象 | 1 | - |
 | reCode | 返回码| int | 2 | res |
 | resMessage| 返回说明 | string | 2 | res |
-| courseList| 课程列表 | 对象数组 | 1 | - |
-| courseDesc| 课程描述 | string | 2 |courseList|
-| courseName| 课程名称 | string | 2 |courseList|
-| courseSrc| 课程来源 | string | 2 |courseList|
-| courseType| 课程分类 | string | 2 |courseList|
-| createTime| 创建时间 | string | 2 |courseList|
-| id| ID | long | 2 |courseList|
-| ifRequired | 是否必修 | int | 2 |courseList|
-| imgPath1| 课程介绍图片1 | string | 2 |courseList|
-| imgPath2| 课程介绍图片2 | string | 2 |courseList|
-| imgPath3| 课程介绍图片3 | string | 2 |courseList|
-| learnNum| 学习次数 | long | 2 |courseList|
-| unitId| 单位ID | long | 2 |courseList|
-| ifRequired | 是否必修 | int | 2 |courseList|
+| lesson| 课程列表 | 对象 | 1 | - |
+| courseId| 课程ID| long | 3 | topVideoList|
+| createTime| 创建时间 | string | 3 | topVideoList|
+| filePath | 文件路径 | string | 3 | topVideoList|
+| id| ID | string | 3 | topVideoList|
+| keyWords | 关键字 | string | 3 | topVideoList|
+|lessonDesc| 培训内容概述 | string | 3 | topVideoList|
+|lesson| 文件格式 | int | 3 | topVideoList|
+|lessonSubject | 课件名称 | string | 3 | topVideoList|
+|mainPoints | 学习要点 | string | 3 | topVideoList|
+|range| 适用范围 | string | 3 | topVideoList|
+|teacher | 讲师 | string | 3 | topVideoList|
+|trainTime | 培训时长 | int | 3 | topVideoList|
+|translateFilePages | 转换后文件路径 | string | 3 | topVideoList|
+|unitId| 单位ID | long | 3 | topVideoList|
 
 * 样例返回
 
