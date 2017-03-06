@@ -30,6 +30,11 @@
 | createTime| 创建时间 | string | 3 | recommandCoursesList|
 | id| ID | long | 3 | recommandCoursesList|
 | ifRequired | 是否必修 | int | 3 | recommandCoursesList|
+| imgPath1| 课程介绍图片1 | string | 3 | recommandCoursesList|
+| imgPath2| 课程介绍图片2 | string | 3 | recommandCoursesList|
+| imgPath3| 课程介绍图片3 | string | 3 | recommandCoursesList|
+| ifRequired | 是否必修 | int | 3 | recommandCoursesList|
+| ifRequired | 是否必修 | int | 3 | recommandCoursesList|
 
 * 样例返回
   
