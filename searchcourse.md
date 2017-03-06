@@ -31,6 +31,7 @@
 | imgPath2| 课程介绍图片2 | string | 2 |courseList|
 | imgPath3| 课程介绍图片3 | string | 2 |courseList|
 | unitId| 单位ID | long | 2 |courseList|
+| learnNum| 学习次数 | long | 2 |courseList|
 | ifRequired | 是否必修 | int | 2 |courseList|
 
 * 样例返回
