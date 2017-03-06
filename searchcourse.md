@@ -20,18 +20,18 @@
 | reCode | 返回码：（1：成功；其他：失败） | int | 2 | res |
 | resMessage| 返回说明 | string | 2 | res |
 | courseList| 课程列表 | 对象数组 | 1 | - |
-| courseDesc| 课程描述 | string | 3 |courseList|
-| courseName| 课程名称 | string | 3 |courseList|
-| courseSrc| 课程来源 | string | 3 |courseList|
-| courseType| 课程分类 | string | 3 |courseList|
-| createTime| 创建时间 | string | 3 |courseList|
-| id| ID | long | 3 |courseList|
-| ifRequired | 是否必修 | int | 3 |courseList|
-| imgPath1| 课程介绍图片1 | string | 3 |courseList|
-| imgPath2| 课程介绍图片2 | string | 3 |courseList|
-| imgPath3| 课程介绍图片3 | string | 3 |courseList|
-| unitId| 单位ID | long | 3 |courseList|
-| ifRequired | 是否必修 | int | 3 |courseList|
+| courseDesc| 课程描述 | string | 2 |courseList|
+| courseName| 课程名称 | string | 2 |courseList|
+| courseSrc| 课程来源 | string | 2 |courseList|
+| courseType| 课程分类 | string | 2 |courseList|
+| createTime| 创建时间 | string | 2 |courseList|
+| id| ID | long | 2 |courseList|
+| ifRequired | 是否必修 | int | 2 |courseList|
+| imgPath1| 课程介绍图片1 | string | 2 |courseList|
+| imgPath2| 课程介绍图片2 | string | 2 |courseList|
+| imgPath3| 课程介绍图片3 | string | 2 |courseList|
+| unitId| 单位ID | long | 2 |courseList|
+| ifRequired | 是否必修 | int | 2 |courseList|
 
 * 样例返回
 
