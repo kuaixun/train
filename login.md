@@ -2,7 +2,7 @@
 
 #### **请求说明**
 
-* 请求方法 _findInfoNByCoid5_
+* 请求方法 userLogin
 
 * 请求参数
 
