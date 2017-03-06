@@ -56,7 +56,7 @@
        ],
        "latestCourseList":
        [
-           {"":""}
+           {"ID":123456}
            ...
        ],
        "topCourseList":
