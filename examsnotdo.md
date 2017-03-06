@@ -21,7 +21,7 @@
 | examList| 课程列表 | 对象数组 | 1 | - |
 | createTime| 创建时间| string | 2 | examList|
 | createUser| 创建人 | string | 2 | examList|
-| filePath | 文件路径 | string | 2 | examList|
+| examName| 试卷名称 | string | 2 | examList|
 | id| ID | string | 2 | examList|
 | keyWords | 关键字 | string | 2 | examList|
 |lessonDesc| 培训内容概述 | string | 2 | examList|
