@@ -47,7 +47,8 @@
 |range| 适用范围 | string | 3 | topVideoList|
 |teacher | 讲师 | string | 3 | topVideoList|
 |trainTime | 培训时长 | int | 3 | topVideoList|
-|translateFilePages | 文档页数 | int | 3 | topVideoList|
+|translateFilePages | 转换后文件路径 | string | 3 | topVideoList|
+|unitId| 单位ID | long | 3 | topVideoList|
 
 
 * 样例返回
