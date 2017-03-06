@@ -10,4 +10,5 @@
 * [接口模板](userlogin.md)
 * [用户登录](login.md)
 * [首页](mainpage.md)
+* [课程搜索](searchcourse.md)
 
