@@ -46,9 +46,9 @@
 
   ```
   {
-    "res": {
+    "result": {
         "code": "1", 
-        "msg": "Operation is successful"
+        "message": "Operation is successful"
     },
     "user":{
         "userName":"张三",
