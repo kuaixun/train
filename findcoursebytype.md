@@ -5,7 +5,7 @@
 * 请求方法 findCourseByType
 
 * 请求参数
-
+**pageIndex不传默认为首页**
 | 字段 | 说明 | 类型 | 必须 |
 | :--- | :--- | :--- | :--- |
 | unitId| 单位ID | long | 是 |
