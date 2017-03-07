@@ -35,7 +35,7 @@
             "code": "1", 
             "msg": "Operation is successful"
         },
-    "lesson":
+    "courseType":
         [
            { "lessonSubject":"语文"},
             ...
