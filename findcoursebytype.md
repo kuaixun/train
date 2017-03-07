@@ -10,7 +10,7 @@
 | :--- | :--- | :--- | :--- |
 | unitId| 单位ID | long | 是 |
 | courseTypeId| 课程类别ID | long | 是 |
-| pageIndex| 请求页码 | int| 是 |
+| pageIndex| 请求页码 | int| 否 |
 
 * 返回参数
 
