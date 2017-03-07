@@ -36,8 +36,9 @@
             "msg": "Operation is successful"
         },
     "courseType":
-        [
-           { "typeName":"语文"},
+       { 
+           "typeName":"语文"
+       },
+           
             ...
-        ] 
     }
