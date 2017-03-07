@@ -36,18 +36,16 @@
 
 * 样例返回
 
-```
 {
     "res": 
-    {
-        "code": "1", 
-        "msg": "Operation is successful"
-    },
-    "courseList":
-    [
-       {"courseName":"语文"},
-        ...
-    ] 
+        {
+            "code": "1", 
+            "msg": "Operation is successful"
+        },
+        "courseList":
+        [
+           {"courseName":"语文"},
+            ...
+        ] 
 }
-```
 
