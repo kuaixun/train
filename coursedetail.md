@@ -39,7 +39,7 @@
 
     
     {
-    "method":"userLogin",
+    "method":"findCourseInfoByIds",
     "result":
         {
         "code": "1",
