@@ -9,7 +9,7 @@
 
 | 字段 | 说明 | 类型 | 必须 |
 | :--- | :--- | :--- | :--- |
-| courseIds| 课程id列表 | string(id之间以逗号隔开) | 是 |
+| courseIds| 课程id列表 | string | 是 |
 
 * 返回参数
 
