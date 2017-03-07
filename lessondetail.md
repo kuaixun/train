@@ -22,7 +22,7 @@
 | courseId| 课程ID| long | 2 | lesson|
 | createTime| 创建时间 | long| 22 | lesson|
 | filePath | 文件路径 | string | 2 | lesson|
-| courseId| ID | string | 2 | lesson|
+| lessonId| ID | string | 2 | lesson|
 | keyWords | 关键字 | string | 2 | lesson|
 |lessonDesc| 培训内容概述 | string | 2 | lesson|
 |lesson| 文件格式 | int | 2 | lesson|
