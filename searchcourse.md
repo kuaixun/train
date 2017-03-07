@@ -41,7 +41,7 @@
 
     
     {
-        "method":"userLogin",
+        "method":"searchCourse",
         "result":
         {
             "code": "1",
