@@ -42,9 +42,8 @@
             "resMessage": "Operation is successful"
         },
         "course":
-        [
-           { "courseName":"语文"},
+        {
+            "courseName":"语文",
             ...
-        ] 
+        }
     }
-
