@@ -25,7 +25,7 @@
 | lessonId| ID | string | 2 | lesson|
 | keyWords | 关键字 | string | 2 | lesson|
 |lessonDesc| 培训内容概述 | string | 2 | lesson|
-|lesson| 文件格式 | int | 2 | lesson|
+|lessonMode| 文件格式 | int | 2 | lesson|
 |lessonSubject | 课件名称 | string | 2 | lesson|
 |mainPoints | 学习要点 | string | 2 | lesson|
 |range| 适用范围 | string | 2 | lesson|
