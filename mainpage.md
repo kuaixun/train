@@ -14,10 +14,11 @@
 
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
-| res | 调用结果 | 对象 | 1 | - |
-| code | 返回码 | int | 2 | res |
-| msg| 返回说明 | string | 2 | res |
-| content| 首页内容 | 对象 | 1 | - |
+| method| 调用方法 | string | 1 | - |
+| result | 调用结果 | 对象 | 1 | - |
+| code | 返回码| int | 2 | res |
+| message| 返回说明 | string | 2 | res |
+| body | 返回消息体 | 对象 | 1 | - |
 | bannerList | banner模块 | 对象数组 | 2 | content |
 | recommandCoursesList| 推荐课程模块 | 对象数组 | 2 | content |
 | latestCourseList | 最新课程模块 | 对象数组 | 2 | content |
