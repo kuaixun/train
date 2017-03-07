@@ -46,11 +46,14 @@
 
   ```
   {
-    "result": {
+    "method":"userLogin",
+    "result": 
+    {
         "code": "1", 
         "message": "Operation is successful"
     },
-    "user":{
+    "user":
+    {
         "userName":"张三",
         "education":"学历"
         ...
