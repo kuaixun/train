@@ -31,7 +31,8 @@
 5、服务器端返回Json key的顺序，除URL前缀 (apicPass)固定在第一位之外，其他key不保证其顺序；
 
 6、调用接口说明  
-服务器地址：http://go.10086.cn/surfnews/suferDeskInteFace/surfdesk  
+测试环境服务器地址：待定
+线上服务器地址：待定
 参数：method=\*\*\*\*  
 jsonRequest={\*\*\*\*}；
 
