@@ -15,8 +15,8 @@
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
 | res | 调用结果 | 对象 | 1 | - |
-| reCode | 返回码 | int | 2 | res |
-| resMessage| 返回说明 | string | 2 | res |
+| code | 返回码 | int | 2 | res |
+| msg| 返回说明 | string | 2 | res |
 | content| 首页内容 | 对象 | 1 | - |
 | bannerList | banner模块 | 对象数组 | 2 | content |
 | recommandCoursesList| 推荐课程模块 | 对象数组 | 2 | content |
