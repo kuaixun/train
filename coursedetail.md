@@ -33,7 +33,7 @@
 | ifRequired | 是否必修 | int | 2 |courseList|
 
 * 样例返回
-    
+```
 {
     "res": 
     {
