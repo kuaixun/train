@@ -19,8 +19,8 @@
 | :--- | :--- | :--- | :--- | :--- |
 | method| 调用方法 | string | 1 | - |
 | result | 调用结果 | 对象 | 1 | - |
-| code | 返回码| int | 2 | res |
-| message| 返回说明 | string | 2 | res |
+| code | 返回码| int | 2 | body|
+| message| 返回说明 | string | 2 | body|
 | body | 返回消息体 | 对象 | 1 | - |
 | courseDesc| 课程描述 | string | 2 |body|
 | courseName| 课程名称 | string | 2 |body|
