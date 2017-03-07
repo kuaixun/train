@@ -24,7 +24,7 @@
 | createUser| 创建人 | string | 2 | body|
 | examTime| 考试时长| int| 2 | body|
 | examType| 试卷类别 | string | 2 | body|
-| id | ID | long | 2 | body|
+| examId | ID | long | 2 | body|
 |judgeNum| 判断题数量 | int| 2 | body|
 |questionNum| 简答题数量 | int | 2 | body|
 |remark | 备注 | string | 2 | body|
