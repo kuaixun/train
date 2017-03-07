@@ -31,12 +31,13 @@
 
 
     {
-    "res": 
+    "method":"userLogin",
+    "result":
         {
-            "code": "1", 
-            "msg": "Operation is successful"
+        "code": "1",
+        "message": "Operation is successful"
         },
-    "courseType":
+    "body":
        { 
            "typeName":"语文"
            “sons”:
