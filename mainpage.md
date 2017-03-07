@@ -19,11 +19,11 @@
 | code | 返回码| int | 2 | res |
 | message| 返回说明 | string | 2 | res |
 | body | 返回消息体 | 对象 | 1 | - |
-| bannerList | banner模块 | 对象数组 | 2 | content |
-| recommandCoursesList| 推荐课程模块 | 对象数组 | 2 | content |
-| latestCourseList | 最新课程模块 | 对象数组 | 2 | content |
-| topCourseList| 课程排行榜模块 | 对象数组 | 2 | content |
-| topVideoList | 视频排行榜模块 | 对象数组 | 2 | content |
+| bannerList | banner模块 | 对象数组 | 2 | body |
+| recommandCoursesList| 推荐课程模块 | 对象数组 | 2 | body |
+| latestCourseList | 最新课程模块 | 对象数组 | 2 | body |
+| topCourseList| 课程排行榜模块 | 对象数组 | 2 | body |
+| topVideoList | 视频排行榜模块 | 对象数组 | 2 | body |
 | courseDesc| 课程描述 | string | 3 | （课程类通用）|
 | courseName| 课程名称 | string | 3 |（课程类通用）|
 | courseSrc| 课程来源 | string | 3 |（课程类通用）|
