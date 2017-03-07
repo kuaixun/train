@@ -35,8 +35,8 @@
 
 * 样例返回
 
-  ```
-  {
+
+    {
     "method":"userLogin",
         "result":
         {
@@ -44,9 +44,9 @@
         "message": "Operation is successful"
         },
     "body":
-    [
-       { "lessonSubject":"语文"},
-        ...
-    ] 
-}
+        [
+           { "lessonSubject":"语文"},
+            ...
+        ] 
+    }
 
