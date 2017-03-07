@@ -2,13 +2,15 @@
 
 #### **请求说明**
 
-* 请求方法 findCourseInfoByIds
+* 请求方法 findCourseByType
 
 * 请求参数
 
 | 字段 | 说明 | 类型 | 必须 |
 | :--- | :--- | :--- | :--- |
-| courseIds| 课程id列表 | string(id之间以逗号隔开) | 是 |
+| unitId| 单位ID | long | 是 |
+| courseTypeId| 课程类别ID | long | 是 |
+| pageIndex| 请求页码 | int| 是 |
 
 * 返回参数
 

@@ -14,7 +14,7 @@
 
 * [课程搜索](searchcourse.md)
 * [课程类别列表](coursetypelist.md)
-* [findCourseByType](findcoursebytype.md)
+* [按类别获取课程列表](findcoursebytype.md)
 * [课程详情](coursedetail.md)
 * [课件详情](lessoninfo.md)
 
