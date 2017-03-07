@@ -38,12 +38,13 @@
 
 
     {
-    "res": 
-        {
-            "code": "1", 
-            "msg": "Operation is successful"
-        },
-    "lesson":
+        "method":"userLogin",
+            "result":
+            {
+            "code": "1",
+            "message": "Operation is successful"
+            },
+        "body":
            { 
                "lessonSubject":"语文"
            },
