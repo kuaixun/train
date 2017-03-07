@@ -31,7 +31,7 @@
 
 
     {
-    "method":"userLogin",
+    "method":"findCourseType",
     "result":
         {
         "code": "1",
