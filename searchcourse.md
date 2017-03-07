@@ -12,7 +12,7 @@
 | :--- | :--- | :--- | :--- |
 | unitId| 单位ID | long | 是 |
 | query | 关键字 | string | 否 |
-| pageIndex| 当前页码 | int | 否 |
+| pageIndex| 请求页码 | int | 否 |
 
 * 返回参数
 
