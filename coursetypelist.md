@@ -40,7 +40,10 @@
            "typeName":"语文"
            “sons”:
            [
-               {"courseType":{...}}
+               {
+               "courseType":
+                   {...}
+               }
            ]
        },
             ...
