@@ -17,8 +17,8 @@
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
 | res | 调用结果 | 对象 | 1 | - |
-| reCode | 返回码| int | 2 | res |
-| resMessage| 返回说明 | string | 2 | res |
+| code | 返回码| int | 2 | res |
+| msg| 返回说明 | string | 2 | res |
 | courseList| 课程列表 | 对象数组 | 1 | - |
 | courseDesc| 课程描述 | string | 2 |courseList|
 | courseName| 课程名称 | string | 2 |courseList|
