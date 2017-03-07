@@ -61,7 +61,7 @@
                 "msg": "Operation is successful"
             },
         "content":
-            {
+        {
            "bannerList":
            [
                {"":""}
