@@ -32,10 +32,13 @@
 5、服务器端返回Json key的顺序，除URL前缀 (apicPass)固定在第一位之外，其他key不保证其顺序；
 
 6、调用接口说明  
-测试环境服务器地址：待定
-线上服务器地址：待定
-参数以如下格式拼接：
-jsonRequest={"method":"testMethod","body":{"param1":123,"param2":"abc",....}}
+**测试环境服务器地址：**
+待定
+**线上服务器地址：**
+待定
+**接口以POST方式调用**
+**参数以如下格式拼接：**
+{"method":"testMethod","body":{"param1":123,"param2":"abc",....}}
 
 
 
