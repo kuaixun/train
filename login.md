@@ -18,8 +18,8 @@
 | :--- | :--- | :--- | :--- | :--- |
 | method| 调用方法 | string | 1 | - |
 | result | 调用结果 | 对象 | 1 | - |
-| code | 返回码| int | 2 | res |
-| message| 返回说明 | string | 2 | res |
+| code | 返回码| int | 2 | result|
+| message| 返回说明 | string | 2 | result|
 | body | 返回消息体 | 对象 | 1 | - |
 | address | 地址 | string | 2 | user |
 | centerId | 所在分中心 | string | 2 | user |
