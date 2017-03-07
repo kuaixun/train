@@ -17,10 +17,11 @@
 
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
-| res | 调用结果 | 对象 | 1 | - |
+| method| 调用方法 | string | 1 | - |
+| result | 调用结果 | 对象 | 1 | - |
 | code | 返回码| int | 2 | res |
-| msg| 返回说明 | string | 2 | res |
-| courseList| 课程列表 | 对象数组 | 1 | - |
+| message| 返回说明 | string | 2 | res |
+| body | 返回消息体 | 对象 | 1 | - |
 | courseDesc| 课程描述 | string | 2 |courseList|
 | courseName| 课程名称 | string | 2 |courseList|
 | courseSrc| 课程来源 | string | 2 |courseList|
