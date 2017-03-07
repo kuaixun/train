@@ -20,17 +20,17 @@
 | code | 返回码| int | 2 | res |
 | message| 返回说明 | string | 2 | res |
 | body | 返回消息体 | 对象 | 1 | - |
-| createTime| 创建时间| string | 2 | examList|
-| createUser| 创建人 | string | 2 | examList|
-| examTime| 考试时长| int| 2 | examList|
-| examType| 试卷类别 | string | 2 | examList|
-| id | ID | long | 2 | examList|
-|judgeNum| 判断题数量 | int| 2 | examList|
-|questionNum| 简答题数量 | int | 2 | examList|
-|remark | 备注 | string | 2 | examList|
-|selectManyNum| 多选题数量 | string | 2 | examList|
-|selectOneNum| 单选题数量 | string | 2 | examList|
-|standardScore| 达标分数线 | string | 2 | examList|
+| createTime| 创建时间| string | 2 | body|
+| createUser| 创建人 | string | 2 | body|
+| examTime| 考试时长| int| 2 | body|
+| examType| 试卷类别 | string | 2 | body|
+| id | ID | long | 2 | body|
+|judgeNum| 判断题数量 | int| 2 | body|
+|questionNum| 简答题数量 | int | 2 | body|
+|remark | 备注 | string | 2 | body|
+|selectManyNum| 多选题数量 | string | 2 | body|
+|selectOneNum| 单选题数量 | string | 2 | body|
+|standardScore| 达标分数线 | string | 2 | body|
 
 
 * 样例返回
