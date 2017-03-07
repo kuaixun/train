@@ -37,7 +37,7 @@
 
 
     {
-    "method":"userLogin",
+    "method":"findExamsNotDo",
         "result":
         {
         "code": "1",
