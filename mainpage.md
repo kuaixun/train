@@ -27,7 +27,7 @@
 | courseName| 课程名称 | string | 3 |（课程类通用）|
 | courseSrc| 课程来源 | string | 3 |（课程类通用）|
 | courseType| 课程分类 | string | 3 | （课程类通用）|
-| createTime| 创建时间 | string | 3 |（课程类通用）|
+| createTime| 创建时间 | long| 3 |（课程类通用）|
 | courseId| ID | long | 3 | （课程类通用）|
 | ifRequired | 是否必修 | int | 3 | （课程类通用）|
 | imgPath1| 课程介绍图片1 | string | 3 | （课程类通用）|
