@@ -15,8 +15,8 @@
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
 | res | 调用结果 | 对象 | 1 | - |
-| reCode | 返回码| int | 2 | res |
-| resMessage| 返回说明 | string | 2 | res |
+| code| 返回码| int | 2 | res |
+| msg| 返回说明 | string | 2 | res |
 | lesson| 课件详情 | 对象 | 1 | - |
 | courseId| 课程ID| long | 3 | lesson|
 | createTime| 创建时间 | string | 3 | lesson|
