@@ -17,8 +17,8 @@
 | :--- | :--- | :--- | :--- | :--- |
 | method| 调用方法 | string | 1 | - |
 | result | 调用结果 | 对象 | 1 | - |
-| code | 返回码| int | 2 | res |
-| message| 返回说明 | string | 2 | res |
+| code | 返回码| int | 2 | result |
+| message| 返回说明 | string | 2 | result |
 | body | 返回消息体 | 对象数组 | 1 | - |
 | createTime| 创建时间| long| 2 | body|
 | createUser| 创建人 | string | 2 | body|
