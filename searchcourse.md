@@ -37,10 +37,11 @@
 * 样例返回
 
   ```
-  {
-    "res": {
-        "resCode": "1", 
-        "resMessage": "Operation is successful"
+{
+    "res": 
+    {
+        "code": "1", 
+        "msg": "Operation is successful"
     },
     "courseList":
     [
@@ -48,4 +49,5 @@
         ...
     ] 
 }
+...
 
