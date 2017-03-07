@@ -19,12 +19,12 @@
 | code| 返回码| int | 2 | res |
 | msg| 返回说明 | string | 2 | res |
 | courseType| 课件类别 | 对象| 1 | - |
-| courseTypeId| 课程类别ID| long | 3 | lesson|
-| createTime| 创建时间 | string | 3 | lesson|
-| filePath | 文件路径 | string | 3 | lesson|
-| courseId| ID | string | 3 | lesson|
-| keyWords | 关键字 | string | 3 | lesson|
-|lessonDesc| 培训内容概述 | string | 3 | lesson|
+| courseTypeId| 课程类别ID| long | 2 | courseType|
+| pid| 父类ID | string | 3 | courseType|
+| filePath | 文件路径 | string | 3 | courseType|
+| courseId| ID | string | 3 | courseType|
+| keyWords | 关键字 | string | 3 | courseType|
+|lessonDesc| 培训内容概述 | string | 3 | courseType|
 |lesson| 文件格式 | int | 3 | lesson|
 |lessonSubject | 课件名称 | string | 3 | lesson|
 |mainPoints | 学习要点 | string | 3 | lesson|
