@@ -17,7 +17,7 @@
 * [按类别获取课程列表](findcoursebytype.md)
 * [课程详情](coursedetail.md)
 * [按courseId获取课件列表](lessoninfo.md)
-* [lessonDetail](lessondetail.md)
+* [根据id获取课件详情](lessondetail.md)
 
 ## 课堂-考试接口列表
 
