@@ -37,7 +37,7 @@
         },
     "courseType":
         [
-           { "lessonSubject":"语文"},
+           { "typeName":"语文"},
             ...
         ] 
     }
