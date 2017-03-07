@@ -39,14 +39,9 @@
 | sex | 性别 | string | 2 | user |
 | teamId | 所在班组 | long | 2 | user |
 | unitId | - | long | 2 | user |
-| updateTime | - | string | 2 | user |
-| updateUserId | - | long | 2 | user |
 | userCode | - | string | 2 | user |
 | userLevel | 员工等级 | string | 2 | user |
 | userName | - | string | 2 | user |
-| userPwd | - | string | 2 | user |
-| validTime | - | string | 2 | user |
-| zipcode | 邮编 | string | 2 | user |
 
 * 样例返回
 
