@@ -37,7 +37,7 @@
 | unitId| 单位ID | long | 3 | （课程类通用）|
 | ifRequired | 是否必修 | int | 3 |（课程类通用）|
 | courseId| 课程ID| long | 3 | topVideoList|
-| createTime| 创建时间 | string | 3 | topVideoList|
+| createTime| 创建时间 | long| 3 | topVideoList|
 | filePath | 文件路径 | string | 3 | topVideoList|
 | lessonId| ID | string | 3 | topVideoList|
 | keyWords | 关键字 | string | 3 | topVideoList|
