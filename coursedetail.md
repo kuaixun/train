@@ -41,7 +41,7 @@
             "resCode": "1", 
             "resMessage": "Operation is successful"
         },
-        "courseList":
+        "course":
         [
            { "courseName":"语文"},
             ...
