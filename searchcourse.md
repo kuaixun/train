@@ -38,15 +38,15 @@
 
     
     {
-        "res": 
-            {
-                "code": "1", 
-                "msg": "Operation is successful"
-            },
-            "courseList":
-            [
-               {"courseName":"语文"},
-                ...
-            ] 
+    "res": 
+        {
+            "code": "1", 
+            "msg": "Operation is successful"
+        },
+        "courseList":
+        [
+           {"courseName":"语文"},
+            ...
+        ] 
     }
 
