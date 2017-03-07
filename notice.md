@@ -33,8 +33,8 @@
 6、调用接口说明  
 测试环境服务器地址：待定
 线上服务器地址：待定
-参数：method=\*\*\*\*  
-jsonRequest={\*\*\*\*}；
+参数以如下格式拼接：
+jsonRequest={"method":"testMethod","body":{...}}；
 
 
 
