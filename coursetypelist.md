@@ -2,7 +2,7 @@
 
 #### **请求说明**
 
-* 请求方法 findLessonInfoByIds
+* 请求方法 findCourseType
 
 * 请求参数
 
