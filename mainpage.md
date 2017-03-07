@@ -56,8 +56,8 @@
   
   {
     "res":{
-            "resCode": "1", 
-            "resMessage": "Operation is successful"
+            "code": "1", 
+            "msg": "Operation is successful"
         },
     "content":{
        "bannerList":
