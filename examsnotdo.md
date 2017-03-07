@@ -20,7 +20,7 @@
 | code | 返回码| int | 2 | res |
 | message| 返回说明 | string | 2 | res |
 | body | 返回消息体 | 对象 | 1 | - |
-| createTime| 创建时间| string | 2 | body|
+| createTime| 创建时间| long| 2 | body|
 | createUser| 创建人 | string | 2 | body|
 | examTime| 考试时长| int| 2 | body|
 | examType| 试卷类别 | string | 2 | body|
