@@ -69,17 +69,17 @@
            ],
            "recommandCoursesList":
            [
-               {"ID":123456}
+               {"courseId":123456}
                ...
            ],
            "latestCourseList":
            [
-               {"ID":123456}
+               {"courseId":123456}
                ...
            ],
            "topCourseList":
            {
-               {"ID":123456}
+               {"courseId":123456}
                ...
            },
            "topVideoList":
