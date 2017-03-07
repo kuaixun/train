@@ -28,7 +28,7 @@
 | email | 邮箱 | string | 2 | user |
 | empiricValue | 经验值 | int | 2 | user |
 | englishName | 英文名 | string | 2 | user |
-| entryDate | 入职时间 | string | 2 | user |
+| entryDate | 入职时间 | long| 2 | user |
 | headImg | 头像图片 | string | 2 | user |
 | userid | ID | long | 2 | user |
 | idCard | 身份证号码 | string | 2 | user |
