@@ -17,7 +17,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | method| 调用方法 | string | 1 | - |
 | result | 调用结果 | 对象 | 1 | - |
-| code | 返回码| int | 2 | res |
+| code | 返回码| int | 2 | result |
 | message| 返回说明 | string | 2 | res |
 | body | 返回消息体 | 对象 | 1 | - |
 | courseTypeId| 课程类别ID| long | 2 | body|
