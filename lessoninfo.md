@@ -15,10 +15,11 @@
 
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
-| res | 调用结果 | 对象 | 1 | - |
-| reCode | 返回码| int | 2 | res |
-| resMessage| 返回说明 | string | 2 | res |
-| lessonList| 课件列表 | 对象 | 1 | - |
+| method| 调用方法 | string | 1 | - |
+| result | 调用结果 | 对象 | 1 | - |
+| code | 返回码| int | 2 | res |
+| message| 返回说明 | string | 2 | res |
+| body | 返回消息体 | 对象 | 1 | - |
 | courseId| 课程ID| long | 2 | lessonList|
 | createTime| 创建时间 | long| 2 | lessonList|
 | filePath | 文件路径 | string | 2 | lessonList|
