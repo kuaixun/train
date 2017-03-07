@@ -13,9 +13,10 @@
 ## 课堂-培训接口列表
 
 * [课程搜索](searchcourse.md)
+* [课程类别列表](coursetypelist.md)
+* [findCourseByType](findcoursebytype.md)
 * [课程详情](coursedetail.md)
 * [课件详情](lessoninfo.md)
-* [课程分类列表](coursetypelist.md)
 
 ## 课堂-考试接口列表
 
