@@ -52,7 +52,7 @@
         "code": "1", 
         "message": "Operation is successful"
     },
-    "user":
+    "body":
     {
         "userName":"张三",
         "education":"学历"
