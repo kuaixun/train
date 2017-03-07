@@ -84,7 +84,7 @@
            },
            "topVideoList":
             [
-               {"ID":123456}
+               {"courseId":123456}
                ...
             ]
         } 
