@@ -5,10 +5,10 @@
 * 请求方法 findCourseType
 
 * 请求参数
-
+**注意：courseTypeId如果不传，则返回整颗树**
 | 字段 | 说明 | 类型 | 必须 |
 | :--- | :--- | :--- | :--- |
-| -| - | - | - |
+| courseTypeId| 课程类别ID | long | 否 |
 
 * 返回参数
 
@@ -17,7 +17,7 @@
 | res | 调用结果 | 对象 | 1 | - |
 | code| 返回码| int | 2 | res |
 | msg| 返回说明 | string | 2 | res |
-| lesson| 课件详情 | 对象 | 1 | - |
+| courseType| 课件详情 | 对象 | 1 | - |
 | courseId| 课程ID| long | 3 | lesson|
 | createTime| 创建时间 | string | 3 | lesson|
 | filePath | 文件路径 | string | 3 | lesson|
