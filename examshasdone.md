@@ -14,10 +14,11 @@
 
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
-| res | 调用结果 | 对象 | 1 | - |
-| reCode | 返回码| int | 2 | res |
-| resMessage| 返回说明 | string | 2 | res |
-| examResult| 课程列表 | 对象 | 1 | - |
+| method| 调用方法 | string | 1 | - |
+| result | 调用结果 | 对象 | 1 | - |
+| code | 返回码| int | 2 | res |
+| message| 返回说明 | string | 2 | res |
+| body | 返回消息体 | 对象 | 1 | - |
 | during| 考试时长| int | 2 | examResult|
 | examEndTime| 考试结束时间 | string | 2 | examResult|
 | examId| 试卷ID | long | 2 | examList|
