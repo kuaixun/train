@@ -24,15 +24,7 @@
 | sort| 文件路径 | int| 2 | courseType|
 | sons| 子节点 | 对象数组| 2 | courseType|
 | typeName| 课程类别名称 | string | 2 | courseType|
-|lessonDesc| 培训内容概述 | string | 2 | courseType|
-|lesson| 文件格式 | int | 3 | lesson|
-|lessonSubject | 课件名称 | string | 3 | lesson|
-|mainPoints | 学习要点 | string | 3 | lesson|
-|range| 适用范围 | string | 3 | lesson|
-|teacher | 讲师 | string | 3 | lesson|
-|trainTime | 培训时长 | int | 3 | lesson|
-|translateFilePages | 转换后文件路径 | string | 3 | lesson|
-|unitId| 单位ID | long | 3 | lesson|
+
 
 * 样例返回
 
