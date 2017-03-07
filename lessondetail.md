@@ -19,7 +19,7 @@
 | msg| 返回说明 | string | 2 | res |
 | lesson| 课件详情 | 对象 | 1 | - |
 | courseId| 课程ID| long | 2 | lesson|
-| createTime| 创建时间 | long| 22 | lesson|
+| createTime| 创建时间 | long| 2 | lesson|
 | filePath | 文件路径 | string | 2 | lesson|
 | lessonId| ID | string | 2 | lesson|
 | keyWords | 关键字 | string | 2 | lesson|
