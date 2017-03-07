@@ -19,16 +19,16 @@
 | code | 返回码| int | 2 | res |
 | message| 返回说明 | string | 2 | res |
 | body | 返回消息体 | 对象 | 1 | - |
-| during| 考试时长| int | 2 | examResult|
-| examEndTime| 考试结束时间 | string | 2 | examResult|
-| examId| 试卷ID | long | 2 | examList|
-| examLimitTime| 考试终止时间 | string | 2 | examResult|
-| examStartTime| 考试开始时间 | string | 2 | examResult|
-| examEndTime| 考试结束时间 | string | 2 | examResult|
-| rightCount| 答题正确数| int | 2 | examResult|
-| score| 成绩 | int | 2 | examResult|
-| totalCount| 用户答题总数 | int| 2 | examResult|
-| wrongCount| 用户答题错误数 | int | 2 | examResult|
+| during| 考试时长| int | 2 | body|
+| examEndTime| 考试结束时间 | string | 2 | body|
+| examId| 试卷ID | long | 2 | body|
+| examLimitTime| 考试终止时间 | string | 2 | body|
+| examStartTime| 考试开始时间 | string | 2 | body|
+| examEndTime| 考试结束时间 | string | 2 | body|
+| rightCount| 答题正确数| int | 2 | body|
+| score| 成绩 | int | 2 | body|
+| totalCount| 用户答题总数 | int| 2 | body|
+| wrongCount| 用户答题错误数 | int | 2 | body|
 
 
 
