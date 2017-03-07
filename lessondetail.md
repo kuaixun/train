@@ -18,7 +18,7 @@
 | result | 调用结果 | 对象 | 1 | - |
 | code | 返回码| int | 2 | result |
 | message| 返回说明 | string | 2 | result |
-| body | 返回消息体 | 对象 | 1 | - |
+| body | 返回消息体 | 对象数组 | 1 | - |
 | courseId| 课程ID| long | 2 | body|
 | createTime| 创建时间 | long| 2 | body|
 | filePath | 文件路径 | string | 2 | body|
