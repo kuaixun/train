@@ -39,7 +39,6 @@
 | sex | 性别 | string | 2 | user |
 | teamId | 所在班组 | long | 2 | user |
 | unitId | - | long | 2 | user |
-| university | 毕业院校 | string | 2 | user |
 | updateTime | - | string | 2 | user |
 | updateUserId | - | long | 2 | user |
 | userCode | - | string | 2 | user |
