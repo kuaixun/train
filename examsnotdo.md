@@ -15,10 +15,11 @@
 
 | 字段 | 说明 | 类型 | 级别 | 父节点 |
 | :--- | :--- | :--- | :--- | :--- |
-| res | 调用结果 | 对象 | 1 | - |
-| reCode | 返回码| int | 2 | res |
-| resMessage| 返回说明 | string | 2 | res |
-| examList| 课程列表 | 对象数组 | 1 | - |
+| method| 调用方法 | string | 1 | - |
+| result | 调用结果 | 对象 | 1 | - |
+| code | 返回码| int | 2 | res |
+| message| 返回说明 | string | 2 | res |
+| body | 返回消息体 | 对象 | 1 | - |
 | createTime| 创建时间| string | 2 | examList|
 | createUser| 创建人 | string | 2 | examList|
 | examTime| 考试时长| int| 2 | examList|
