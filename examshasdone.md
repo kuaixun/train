@@ -36,7 +36,7 @@
  
              
     {
-    "method":"userLogin",
+    "method":"findExamsHasDone",
     "result":
         {
         "code": "1",
