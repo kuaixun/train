@@ -33,7 +33,6 @@
 | userid | ID | long | 2 | user |
 | idCard | 身份证号码 | string | 2 | user |
 | imsi | 手机imsi | string | 2 | user |
-| isTeacher | 是否讲师 | int | 2 | user |
 | linkPhone | 联系电话 | string | 2 | user |
 | lockStatus | LOCK\_STATUS | int | 2 | user |
 | nickName | 昵称 | string | 2 | user |
