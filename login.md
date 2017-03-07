@@ -22,8 +22,6 @@
 | user | 用户信息 | 对象 | 1 | - |
 | address | 地址 | string | 2 | user |
 | centerId | 所在分中心 | string | 2 | user |
-| changePwdTime | 更换密码时间 | string | 2 | user |
-| createtime | 创建时间 | string | 2 | user |
 | currentPhoto | 当前照片文件路径 | string | 2 | user |
 | departmentId | 所在部门 | long | 2 | user |
 | education | 学历 | int | 2 | user |
@@ -31,10 +29,8 @@
 | empiricValue | 经验值 | int | 2 | user |
 | englishName | 英文名 | string | 2 | user |
 | entryDate | 入职时间 | string | 2 | user |
-| expertField | 擅长领域 | string | 2 | user |
-| flag | flag | string | 2 | user |
 | headImg | 头像图片 | string | 2 | user |
-| id | ID | long | 2 | user |
+| userid | ID | long | 2 | user |
 | idCard | 身份证号码 | string | 2 | user |
 | imsi | 手机imsi | string | 2 | user |
 | isTeacher | 是否讲师 | int | 2 | user |
