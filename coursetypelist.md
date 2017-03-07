@@ -21,7 +21,7 @@
 | courseType| 课件类别 | 对象| 1 | - |
 | courseTypeId| 课程类别ID| long | 2 | courseType|
 | pid| 父类ID | string | 2 | courseType|
-| sort| 文件路径 | string | 2 | courseType|
+| sort| 文件路径 | int| 2 | courseType|
 | courseId| ID | string | 2 | courseType|
 | keyWords | 关键字 | string | 2 | courseType|
 |lessonDesc| 培训内容概述 | string | 2 | courseType|
