@@ -57,7 +57,9 @@
 
 
       {
-        "method":"userLogin",
+        "method":"mainPage
+
+",
         "result":
         {
         "code": "1",
