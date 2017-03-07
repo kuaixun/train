@@ -57,13 +57,13 @@
 
 
       {
-            "method":"userLogin",
-            "result":
-            {
-            "code": "1",
-            "message": "Operation is successful"
-            },
-            "body":
+        "method":"userLogin",
+        "result":
+        {
+        "code": "1",
+        "message": "Operation is successful"
+        },
+        "body":
         {
            "bannerList":
            [
