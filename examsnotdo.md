@@ -38,11 +38,11 @@
   ```
   {
     "method":"userLogin",
-      "result":
-      {
-      "code": "1",
-      "message": "Operation is successful"
-      },
+        "result":
+        {
+        "code": "1",
+        "message": "Operation is successful"
+        },
     "body":
     [
        { "lessonSubject":"语文"},
