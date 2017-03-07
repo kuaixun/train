@@ -17,7 +17,7 @@
 | method| 调用方法 | string | 1 | - |
 | result | 调用结果 | 对象 | 1 | - |
 | code | 返回码| int | 2 | res |
-| message| 返回说明 | string | 2 | res |
+| message| 返回说明 | string | 2 | result|
 | body | 返回消息体 | 对象 | 1 | - |
 | bannerList | banner模块 | 对象数组 | 2 | body |
 | recommandCoursesList| 推荐课程模块 | 对象数组 | 2 | body |
