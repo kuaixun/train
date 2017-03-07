@@ -38,10 +38,10 @@
 ...
 {
     "res": 
-    {
-        "code": "1", 
-        "msg": "Operation is successful"
-    },
+        {
+            "code": "1", 
+            "msg": "Operation is successful"
+        },
     "lesson":
     [
        { "lessonSubject":"语文"},
