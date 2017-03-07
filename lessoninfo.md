@@ -20,7 +20,7 @@
 | resMessage| 返回说明 | string | 2 | res |
 | lesson| 课件详情 | 对象 | 1 | - |
 | courseId| 课程ID| long | 3 | lesson|
-| createTime| 创建时间 | string | 3 | lesson|
+| createTime| 创建时间 | long| 3 | lesson|
 | filePath | 文件路径 | string | 3 | lesson|
 | courseId| ID | string | 3 | lesson|
 | keyWords | 关键字 | string | 3 | lesson|
