@@ -20,7 +20,7 @@
 | result | 调用结果 | 对象 | 1 | - |
 | code | 返回码| int | 2 | res |
 | message| 返回说明 | string | 2 | res |
-| body | 用户信息 | 对象 | 1 | - |
+| body | 返回消息体 | 对象 | 1 | - |
 | address | 地址 | string | 2 | user |
 | centerId | 所在分中心 | string | 2 | user |
 | currentPhoto | 当前照片文件路径 | string | 2 | user |
