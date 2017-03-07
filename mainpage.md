@@ -57,9 +57,7 @@
 
 
       {
-        "method":"mainPage
-
-",
+        "method":"mainPage",
         "result":
         {
         "code": "1",
