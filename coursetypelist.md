@@ -18,7 +18,7 @@
 | method| 调用方法 | string | 1 | - |
 | result | 调用结果 | 对象 | 1 | - |
 | code | 返回码| int | 2 | result |
-| message| 返回说明 | string | 2 | res |
+| message| 返回说明 | string | 2 | result |
 | body | 返回消息体 | 对象 | 1 | - |
 | courseTypeId| 课程类别ID| long | 2 | body|
 | pid| 父节点ID | string | 2 | body|
