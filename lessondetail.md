@@ -44,9 +44,7 @@
             "msg": "Operation is successful"
         },
     "lesson":
-        [
            { "lessonSubject":"语文"},
             ...
-        ] 
     }
 ****
