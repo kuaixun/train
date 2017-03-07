@@ -34,16 +34,17 @@
 
 * 样例返回
 
-  ```
+
   {
-    "res": {
-        "resCode": "1", 
-        "resMessage": "Operation is successful"
-    },
-    "examResult":
+    "method":"userLogin",
+    "result":
+        {
+        "code": "1",
+        "message": "Operation is successful"
+        },
+    "body":
        {
         "during":50
         },
         ...
 }
-
