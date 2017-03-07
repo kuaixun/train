@@ -53,38 +53,40 @@
 
 
 * 样例返回
-      
-  {
-    "res":{
-            "code": "1", 
-            "msg": "Operation is successful"
-        },
-    "content":{
-       "bannerList":
-       [
-           {"":""}
-           ...
-       ],
-       "recommandCoursesList":
-       [
-           {"ID":123456}
-           ...
-       ],
-       "latestCourseList":
-       [
-           {"ID":123456}
-           ...
-       ],
-       "topCourseList":
-       {
-           {"ID":123456}
-           ...
-       },
-       "topVideoList":
-        [
-           {"ID":123456}
-           ...
-        ]
-    } 
-}
-
+   ...   
+      {
+        "res":
+            {
+                "code": "1", 
+                "msg": "Operation is successful"
+            },
+        "content":
+            {
+           "bannerList":
+           [
+               {"":""}
+               ...
+           ],
+           "recommandCoursesList":
+           [
+               {"ID":123456}
+               ...
+           ],
+           "latestCourseList":
+           [
+               {"ID":123456}
+               ...
+           ],
+           "topCourseList":
+           {
+               {"ID":123456}
+               ...
+           },
+           "topVideoList":
+            [
+               {"ID":123456}
+               ...
+            ]
+        } 
+    }
+...
