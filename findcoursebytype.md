@@ -40,7 +40,7 @@
 
     
     {
-    "method":"userLogin",
+    "method":"findCourseByType",
     "result":
         {
         "code": "1",
