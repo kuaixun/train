@@ -41,9 +41,9 @@
             "code": "1", 
             "msg": "Operation is successful"
         },
-        "course":
-        {
-            "courseName":"语文",
+        "courseList":
+        [
+           { "courseName":"语文"},
             ...
-        }
+        ]
     }
