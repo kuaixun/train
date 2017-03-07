@@ -33,8 +33,8 @@
 
 
 * 样例返回
-    
-{
+      
+    {
     "method":"userLogin",
     "result":
         {
