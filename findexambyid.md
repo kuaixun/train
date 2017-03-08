@@ -17,7 +17,7 @@
 | result | 调用结果 | 对象 | 1 | - |
 | code | 返回码| int | 2 | result |
 | message| 返回说明 | string | 2 | result |
-| body | 返回消息体 | 对象数组 | 1 | - |
+| body | 返回消息体 | 对象 | 1 | - |
 | examName| 试卷名称| string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 | examType| 试卷类别（是否模拟考试） | int| 2 | body|
