@@ -48,7 +48,12 @@
         },
     "body":
         {
-            {"during":50},
+            "examName":"试卷名称",
+            "subjectLinks":
+            [
+                {"subjectId":123},
+                ...
+            ]
         },
         ...
     }
