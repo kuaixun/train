@@ -28,7 +28,7 @@
 | courseSrc| 课程来源 | string | 2 |body |
 | courseType| 课程分类 | string | 2 |body |
 | createTime| 创建时间 | long| 2 |body |
-| courseid| ID | long | 2 |body |
+| courseId| ID | long | 2 |body |
 | ifRequired | 是否必修 | int | 2 |body |
 | imgPath1| 课程介绍图片1 | string | 2 |body |
 | imgPath2| 课程介绍图片2 | string | 2 |body |
