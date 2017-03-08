@@ -21,7 +21,7 @@
 | examName| 试卷名称| string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 | examType| 试卷类别（是否模拟考试） | int| 2 | body|
-| examTime| 考试时长 | string | 2 | body|
+| examId| ID | long| 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
