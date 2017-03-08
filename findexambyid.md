@@ -27,6 +27,7 @@
 | selectManyNum| 多选题数量 | int| 2 | body|
 | selectOneNum| 单选题数量 | int | 2 | body|
 | standardScore| 达标分数线 | int| 2 | body|
+| totalNum| 试题总数 | int| 2 | body|
 | subjectLinks| 试题信息 | 对象数组| 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
