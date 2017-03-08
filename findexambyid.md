@@ -26,8 +26,8 @@
 | examTime| 简答题数量 | int | 2 | body|
 | selectManyNum| 多选题数量 | int| 2 | body|
 | selectOneNum| 单选题数量 | int | 2 | body|
-| standardScore| 达标分数线 | string | 2 | body|
-| examTime| 考试时长 | string | 2 | body|
+| standardScore| 达标分数线 | int| 2 | body|
+| subjectLinks| 试题信息 | string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 
