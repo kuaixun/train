@@ -34,7 +34,6 @@
 | imgPath3| 课程介绍图片3 | string | 2 |body|
 | learnNum| 学习次数 | long | 2 |body|
 | unitId| 单位ID | long | 2 |body|
-| ifRequired | 是否必修 | int | 2 |body|
 
 * 样例返回
 
