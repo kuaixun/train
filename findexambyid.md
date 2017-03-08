@@ -35,7 +35,7 @@
  
              
     {
-    "method":"findExamsHasDone",
+    "method":"findExamById",
     "result":
         {
         "code": "1",
