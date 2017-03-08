@@ -41,7 +41,7 @@
 {
 "method":"findExamById",
 "result":
-    {~~~~~~~~
+    {
     "code": "1",
     "message": "Operation is successful"
     },
