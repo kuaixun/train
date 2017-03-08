@@ -22,10 +22,10 @@
 | examTime| 考试时长 | string | 2 | body|
 | examType| 试卷类别（是否模拟考试） | int| 2 | body|
 | examId| ID | long| 2 | body|
-| examTime| 考试时长 | string | 2 | body|
-| examTime| 考试时长 | string | 2 | body|
-| examTime| 考试时长 | string | 2 | body|
-| examTime| 考试时长 | string | 2 | body|
+| judgeNum| 判断题数量 | int| 2 | body|
+| examTime| 简答题数量 | int | 2 | body|
+| selectManyNum| 多选题数量 | int| 2 | body|
+| selectOneNum| 单选题数量 | int | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
