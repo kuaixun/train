@@ -20,7 +20,7 @@
 | body | 返回消息体 | 对象数组 | 1 | - |
 | examName| 试卷名称| string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
-| examTime| 考试时长 | string | 2 | body|
+| examType| 考试时长 | string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
 | examTime| 考试时长 | string | 2 | body|
