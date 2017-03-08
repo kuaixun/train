@@ -21,14 +21,9 @@
 | code | 返回码| int | 2 | result|
 | message| 返回说明 | string | 2 | result|
 | body | 返回消息体 | 对象 | 1 | - |
-| address | 地址 | string | 2 | body |
-| centerId | 所在分中心 | string | 2 | body |
-| currentPhoto | 当前照片文件路径 | string | 2 | body |
 | departmentId | 所在部门 | long | 2 | body |
-| education | 学历 | int | 2 | body |
 | email | 邮箱 | string | 2 | body |
 | empiricValue | 经验值 | int | 2 | body |
-| englishName | 英文名 | string | 2 | body |
 | headImg | 头像图片 | string | 2 | body |
 | userid | ID | long | 2 | body |
 | idCard | 身份证号码 | string | 2 | body |
