@@ -8,9 +8,8 @@
 | 字段 | 说明 | 示例
 | -- | -- | 
 | os | 手机操作系统 | android 
-| did | 设备号 | ca67c8f7-d4ca-3089-986f-fdb2c7260f34
 | pm | 手机型号 | M35t
-| cid | 渠道号 | 2ehveeiy
+| uid | 渠道号 | 2ehveeiy
 | sdkv | sdk版本 | 10
 | vername | 版本名称 | 5.0.1
 | vercode | 版本号 | 90
