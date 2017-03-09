@@ -25,7 +25,7 @@
 | email | 邮箱 | string | 2 | body |
 | empiricValue | 经验值 | int | 2 | body |
 | headImg | 头像图片 | string | 2 | body |
-| userid | ID | long | 2 | body |
+| uid | ID | long | 2 | body |
 | idCard | 身份证号码 | string | 2 | body |
 | imsi | 手机imsi | string | 2 | body |
 | linkPhone | 联系电话 | string | 2 | body |
