@@ -28,8 +28,6 @@
 | courseName| 课程名称 | string | 3 |（课程类通用）|
 | courseId| ID | long | 3 | （课程类通用）|
 | imgPath1| 课程介绍图片1 | string | 3 | （课程类通用）|
-| imgPath2| 课程介绍图片2 | string | 3 |（课程类通用）|
-| imgPath3| 课程介绍图片3 | string | 3 |（课程类通用）|
 | description| 文字说明 | string | 3 |bannerList |
 | bannerId | ID| long| 3 |bannerList |
 | imagePath| 图片路径 | string | 3 |bannerList |
