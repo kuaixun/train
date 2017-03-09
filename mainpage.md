@@ -32,13 +32,8 @@
 | bannerId | ID| long| 3 |bannerList |
 | imagePath| 图片路径 | string | 3 |bannerList |
 | sort| 排序 | int | 3 |bannerList |
-| courseId| 课程ID| long | 3 | topVideoList|
-| filePath | 文件路径 | string | 3 | topVideoList|
 | lessonId| ID | long| 3 | topVideoList|
-|lessonMode| 文件格式 | int | 3 | topVideoList|
 |lessonSubject | 课件名称 | string | 3 | topVideoList|
-|trainTime | 培训时长 | int | 3 | topVideoList|
-|translateFilePages | 转换后文件路径 | string | 3 | topVideoList|
 
 
 * 样例返回
