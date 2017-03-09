@@ -30,7 +30,6 @@
 | courseType| 课程分类 | string | 3 | （课程类通用）|
 | createTime| 创建时间 | long| 3 |（课程类通用）|
 | courseId| ID | long | 3 | （课程类通用）|
-| ifRequired | 是否必修 | int | 3 | （课程类通用）|
 | imgPath1| 课程介绍图片1 | string | 3 | （课程类通用）|
 | imgPath2| 课程介绍图片2 | string | 3 |（课程类通用）|
 | imgPath3| 课程介绍图片3 | string | 3 |（课程类通用）|
