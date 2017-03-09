@@ -35,7 +35,6 @@
 | imgPath3| 课程介绍图片3 | string | 3 |（课程类通用）|
 | learnNum| 学习次数 | long | 3 |（课程类通用）|
 | unitId| 单位ID | long | 3 | （课程类通用）|
-| ifRequired | 是否必修 | int | 3 |（课程类通用）|
 | description| 文字说明 | string | 3 |bannerList |
 | bannerId | ID| long| 3 |bannerList |
 | imagePath| 图片路径 | string | 3 |bannerList |
