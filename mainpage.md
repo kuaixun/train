@@ -71,7 +71,7 @@
         {
            "bannerList":
            [
-               {"":""}
+               {"description":"abcd"}
                ...
            ],
            "recommandCoursesList":
