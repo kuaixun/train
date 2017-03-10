@@ -24,7 +24,6 @@
 | headImg | 头像图片 | string | 2 | body |
 | uid | ID | long | 2 | body |
 | imsi | 手机imsi | string | 2 | body |
-| linkPhone | 联系电话 | string | 2 | body |
 | nickName | 昵称 | string | 2 | body |
 | sex | 性别 | string | 2 | body |
 | teamId | 所在班组 | long | 2 | body |
