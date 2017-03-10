@@ -31,19 +31,19 @@
 * 样例返回
 
   ```
-  {
-    "method":"userLogin",
-    "result": 
-    {
-        "code": "1", 
-        "message": "Operation is successful"
-    },
-    "body":
-    {
-        "userName":"张三",
-        "education":"学历"
-        ...
-    } 
+{
+    "method": "login", 
+    "body": {
+        "uid": "636588", 
+        "imsi": "181822510717764", 
+        "userCode": "636588", 
+        "userName": "美洲德文", 
+        "unitId": "5180"
+    }, 
+    "result": {
+        "code": "0", 
+        "message": "SUCCESS"
+    }
 }
 
     ```
