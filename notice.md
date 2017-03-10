@@ -9,7 +9,7 @@
 | -- | -- | 
 | os | 手机操作系统 | android 
 | pm | 手机型号 | M35t
-| uid | 渠道号 | 2ehveeiy
+| uid | 用户id | 2ehveeiy
 | imsi | IMSI | 2ehveeiy
 | sdkv | sdk版本 | 10
 | vername | 版本名称 | 5.0.1
