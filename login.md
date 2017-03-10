@@ -8,7 +8,7 @@
 
 | 字段 | 说明 | 类型 | 必须 |
 | :--- | :--- | :--- | :--- |
-| userCode | 工号 | long | 是 |
+| userCode | 工号 | string| 是 |
 | password | 密码 | string | 是 |
 | imsi | 设备号 | string | 是 |
 
