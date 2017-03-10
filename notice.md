@@ -45,7 +45,8 @@ http://192.168.10.170:8099/training-agent/client
 
 6、测试账号如下：
 
-USER_CODE	USER_PWD	IMSI	UNIT_ID	   USER_LEVEL
+| USER_CODE  | USER_PWD | IMSI | UNIT_ID | USER_LEVEL |
+| :--- | :--- | :--- | :--- | :--- |
 
 1	607088	b9eea234bd48793bd438303493cbd8a6	124921060611511	5196	4
 
