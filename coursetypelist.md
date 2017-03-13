@@ -21,7 +21,7 @@
 | message| 返回说明 | string | 2 | result |
 | body | 返回消息体 | 对象 | 1 | - |
 | courseTypeId| 课程类别ID| long | 2 | body|
-| pid| 父节点ID | string | 2 | body|
+| pid| 父节点ID | long| 2 | body|
 | sort| 排序字段 | int| 2 | body|
 | sons| 子节点 | 对象数组| 2 | body|
 | typeName| 课程类别名称 | string | 2 | body|
