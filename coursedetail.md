@@ -9,7 +9,7 @@
 
 | 字段 | 说明 | 类型 | 必须 |
 | :--- | :--- | :--- | :--- |
-| courseIds| 课程id列表 | long| 是 |
+| courseId| 课程id | long| 是 |
 
 * 返回参数
 
@@ -45,8 +45,6 @@
         "message": "Operation is successful"
         },
     "body":
-        [
            { "courseName":"语文"},
             ...
-        ]
     }
