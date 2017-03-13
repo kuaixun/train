@@ -5,12 +5,11 @@
 * 请求方法 findCourseInfoByIds
 
 * 请求参数
-**courseIds若为多个，中间以英文字符逗号隔开**
 
 
 | 字段 | 说明 | 类型 | 必须 |
 | :--- | :--- | :--- | :--- |
-| courseIds| 课程id列表 | string| 是 |
+| courseIds| 课程id列表 | long| 是 |
 
 * 返回参数
 
