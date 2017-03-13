@@ -38,7 +38,7 @@
 
     
     {
-    "method":"findCourseInfoByIds",
+    "method":"courseDetail",
     "result":
         {
         "code": "0",
