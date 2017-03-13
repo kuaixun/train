@@ -22,7 +22,7 @@
 | result | 调用结果 | 对象 | 1 | - |
 | code | 返回码| int | 2 | result |
 | message| 返回说明 | string | 2 | result |
-| body | 返回消息体 | 对象数组 | 1 | - |
+| body | 返回消息体 | 对象 | 1 | - |
 | courseDesc| 课程描述 | string | 2 |body |
 | courseName| 课程名称 | string | 2 |body |
 | courseId| ID | long | 2 |body |
@@ -34,14 +34,19 @@
     
     {
         "method":"searchCourse",
-        "result":
+        "result": 
         {
-            "code": "1",
-            "message": "Operation is successful"
-        },
+            "code": "0", 
+            "message": "SUCCESS"
+        }, 
         "body":
         [
-           {"courseName":"语文"},
+                   {
+            "courseId": "10004795", 
+            "courseName": "产量医药水蒸气星宿章", 
+            "courseDesc": "啊啊啊啊啊啊啊", 
+            "learnNum": "809"
+        }
             ...
         ] 
     }
