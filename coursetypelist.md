@@ -32,11 +32,10 @@
 
     {
     "method":"findCourseType",
-    "result":
-        {
-        "code": "1",
-        "message": "Operation is successful"
-        },
+    "result": {
+        "code": "0", 
+        "message": "SUCCESS"
+    },
     "body":
        { 
            "typeName":"语文"
