@@ -44,7 +44,23 @@
         "code": "0",
         "message": "SUCCESS"
         },
-    "body":
-           { "courseName":"语文"},
-            ...
-    }
+    "body": {
+        "courseName": "年之前赫兹一院", 
+        "courseDesc": "驼鹿, 过程, 副将", 
+        "courseId": "10004501", 
+        "lessonList": 
+            [
+                {
+                    "lessonId": "10033357", 
+                    "lessonDesc": "班尼特乐调", 
+                    "lessonMode": "0", 
+                    "lessonSubject": "束棒阿依在公元"
+                }, 
+                {
+                    "lessonId": "10033358", 
+                    "lessonDesc": "或称为雪梨", 
+                    "lessonMode": "0", 
+                    "lessonSubject": "银矿女孩旧石"
+                }
+            ]
+    }, 
