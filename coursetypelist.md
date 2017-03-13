@@ -39,14 +39,42 @@
     "body":
        { 
            "typeName":"语文"
-           “sons”:
-           [
-               {
-               "courseType":
-                   {...}
-               }
-               ...
-           ]
+                "sons": [
+                    {
+                        "courseTypeId": "1001", 
+                        "typeName": "客服培训", 
+                        "sons": [ ]
+                    }, 
+                    {
+                        "courseTypeId": "1007", 
+                        "typeName": "市场营销", 
+                        "sons": [ ]
+                    }, 
+                    {
+                        "courseTypeId": "1009", 
+                        "typeName": "接听宝典", 
+                        "sons": [ ]
+                    }, 
+                    {
+                        "courseTypeId": "1010", 
+                        "typeName": "服务指南", 
+                        "sons": [ ]
+                    }, 
+                    {
+                        "courseTypeId": "1012", 
+                        "typeName": "班主进阶", 
+                        "sons": [ ]
+                    }, 
+                    {
+                        "courseTypeId": "1014", 
+                        "typeName": "自学资料", 
+                        "sons": [
+                            {}, 
+                            {}, 
+                            {}
+                        ]
+                    }
+                ]
        },
             ...
     }
