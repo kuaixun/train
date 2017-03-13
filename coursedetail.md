@@ -25,6 +25,8 @@
 | courseName| 课程名称 | string | 2 |body|
 | courseId| ID | long | 2 |body|
 | imgPath1| 课程介绍图片1 | string | 2 |body|
+| lessonList| 课件列表 | 对象数组 | 2 |body|
+
 
 * 样例返回
 
