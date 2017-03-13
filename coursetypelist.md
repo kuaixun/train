@@ -38,7 +38,6 @@
     },
     "body":
        { 
-           "typeName":"语文"
                 "sons": [
                     {
                         "courseTypeId": "1001", 
