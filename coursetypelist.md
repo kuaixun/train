@@ -70,10 +70,10 @@
                         "typeName": "自学资料", 
                         "sons": [
                                     {
-                                "courseTypeId": "1015", 
-                                "pid": "1014", 
-                                "typeName": "自我提升", 
-                                "sons": []
+                                    "courseTypeId": "1015", 
+                                    "pid": "1014", 
+                                    "typeName": "自我提升", 
+                                    "sons": []
                                     }, 
                                     {......}, 
                                     {......}
