@@ -26,6 +26,13 @@
 | courseId| ID | long | 2 |body|
 | imgPath1| 课程介绍图片1 | string | 2 |body|
 | lessonList| 课件列表 | 对象数组 | 2 |body|
+| filePath | 文件路径 | string | 3 | lessonList|
+| lessonId| ID | string | 3 | lessonList|
+|lessonDesc| 培训内容概述 | string | 3 | lessonList|
+|lessonMode| 文件格式 | int | 3 | lessonList|
+|lessonSubject | 课件名称 | string | 3 | lessonList|
+|translateFilePages | 转换后文件路径 | string | 3 | lessonList|
+
 
 
 * 样例返回
