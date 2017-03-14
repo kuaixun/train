@@ -39,7 +39,8 @@
 
 ```
 {
-"method":"findExamById",
+"method":"startPractice
+",
 "result":
     {
     "code": "0",
