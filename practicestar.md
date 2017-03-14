@@ -39,8 +39,7 @@
 
 ```
 {
-"method":"startPractice
-",
+"method":"startPractice",
 "result":
     {
     "code": "0",
