@@ -21,8 +21,8 @@
 | code | 返回码 | int | 2 | result |
 | message | 返回说明 | string | 2 | result |
 | body | 返回消息体 | 对象 | 1 | - |
-| subjectIds| 练习题id清单 | 对象数组 | 2 | body |
-| examTime | 考试时长 | string | 2 | body |
+| subjects| 练习题列表 | 对象数组 | 2 | body |
+| totalCount| 题目总数 | int| 2 | body |
 
 * 样例返回
 
