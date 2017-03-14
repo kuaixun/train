@@ -22,11 +22,14 @@
 | body | 返回消息体 | 对象数组 | 1 | - |
 | notDoList| 未考试卷列表 | 对象数组 | 2 | body |
 | doneList | 已考试卷列表 | 对象数组 | 2 | body |
-| createTime| 创建时间| long| 2 | body|
-| createUser| 创建人 | string | 2 | body|
-| examTime| 考试时长| int| 2 | body|
-| examType| 试卷类别 | string | 2 | body|
-| examId | ID | long | 2 | body|
+| examTime| 考试时长| int| 3 | notDoList|
+| examId | ID | long | 3 | notDoList|
+| judgeNum| 判断题数量 | int | 3 | notDoList|
+| questionNum | 简答题数量 | int | 3 | notDoList|
+| selectManyNum | 多选题数量 | int | 3 | notDoList|
+| selectOneNum | 单选题数量 | int | 3 | notDoList|
+| standardScore | 达标分数线 | int | 2 | notDoList|
+
 
 
 * 样例返回
