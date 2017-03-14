@@ -29,8 +29,15 @@
 | selectManyNum | 多选题数量 | int | 3 | notDoList|
 | selectOneNum | 单选题数量 | int | 3 | notDoList|
 | standardScore | 达标分数线 | int | 3 | notDoList|
-
-
+| during| 考试时长| int | 3 | doneList|
+| examId| 试卷ID | long | 3 | doneList|
+| examLimitTime| 考试终止时间 | string | 3 | doneList|
+| examStartTime| 考试开始时间 | string | 3 | doneList|
+| examEndTime| 考试结束时间 | string | 3 | doneList|
+| rightCount| 答题正确数| int | 3 | doneList|
+| score| 成绩 | int | 3 | doneList|
+| totalCount| 用户答题总数 | int| 3 | doneList|
+| wrongCount| 用户答题错误数 | int | 3 | doneList|
 
 * 样例返回
 
