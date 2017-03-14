@@ -45,7 +45,7 @@
 
 
     {
-    "method":"findExamsNotDo",
+    "method":"findExamList",
         "result":
         {
         "code": "0",
