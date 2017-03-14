@@ -20,6 +20,8 @@
 | code | 返回码| int | 2 | result |
 | message| 返回说明 | string | 2 | result |
 | body | 返回消息体 | 对象数组 | 1 | - |
+| notDoList| 未考试卷列表 | 对象数组 | 2 | body |
+| doneList | 已考试卷列表 | 对象数组 | 2 | body |
 | createTime| 创建时间| long| 2 | body|
 | createUser| 创建人 | string | 2 | body|
 | examTime| 考试时长| int| 2 | body|
