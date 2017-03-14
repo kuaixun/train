@@ -106,7 +106,7 @@
                 "degree":"1",
                 "subjectId":"10000151",
                 "score":"3",
-                "subjectTitle":"'迪克西势家,奥勒留,统称,此条目自治邦'中的'奥勒留'是'奥勒留'的意思吗？",
+                "subjectTitle":"'迪克西的意思吗？",
                 "subjectType":"1",
                 "options":[
                     {
