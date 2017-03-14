@@ -24,7 +24,7 @@
 | subjectList| 练习题列表 | 对象数组 | 2 | body |
 | answer| 题目总数 | int| 3 | subjectList|
 | degree| 难度系数 | int| 3 | subjectList|
-| totalCount| 题目总数 | int| 3 | subjectList|
+| subjectId| ID | long| 3 | subjectList|
 | totalCount| 题目总数 | int| 3 | subjectList|
 | totalCount| 题目总数 | int| 3 | subjectList|
 | totalCount| 题目总数 | int| 3 | subjectList|
