@@ -21,8 +21,19 @@
 | code | 返回码 | int | 2 | result |
 | message | 返回说明 | string | 2 | result |
 | body | 返回消息体 | 对象 | 1 | - |
-| subjects| 练习题列表 | 对象数组 | 2 | body |
-| totalCount| 题目总数 | int| 2 | body |
+| subjectList| 练习题列表 | 对象数组 | 2 | body |
+| answer| 题目总数 | int| 3 | subjectList|
+| totalCount| 题目总数 | int| 3 | subjectList|
+| totalCount| 题目总数 | int| 3 | subjectList|
+| totalCount| 题目总数 | int| 3 | subjectList|
+| totalCount| 题目总数 | int| 3 | subjectList|
+| totalCount| 题目总数 | int| 3 | subjectList|
+| totalCount| 题目总数 | int| 3 | subjectList|
+| totalCount| 题目总数 | int| 3 | subjectList|
+| totalCount| 题目总数 | int| 3 | subjectList|
+| totalCount| 题目总数 | int| 3 | subjectList|
+| totalCount| 题目总数 | int| 3 | subjectList|
+
 
 * 样例返回
 
