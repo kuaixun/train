@@ -57,14 +57,51 @@
     },
 "body":
     {
-        "examName":"试卷名称",
-        "subjectLinks":
-        [
-            {"subjectId":123},
-            ...
+        "examName":"攻势萨迈拉情态",
+        "examTime":"36",
+        "examId":"10000151",
+        "judgeNum":"9",
+        "totalNum":"23",
+        "questionNum":"1",
+        "selectManyNum":"6",
+        "selectOneNum":"7",
+        "standardScore":"100",
+        "subjectList":[
+            {
+                "answer":"1",
+                "degree":"1",
+                "subjectId":"10000151",
+                "score":"3",
+                "subjectTitle":"'迪克西势家,奥勒留,统称,此条目自治邦'中的'奥勒留'是'奥勒留'的意思吗？",
+                "subjectType":"1",
+                "options":[
+
+                ]
+            },
+            {
+                "answer":"1",
+                "degree":"1",
+                "subjectId":"10000151",
+                "score":"3",
+                "subjectTitle":"'迪克西势家,奥勒留,统称,此条目自治邦'中的'奥勒留'是'奥勒留'的意思吗？",
+                "subjectType":"1",
+                "options":[
+
+                ]
+            },
+            {
+                "answer":"1",
+                "degree":"1",
+                "subjectId":"10000151",
+                "score":"3",
+                "subjectTitle":"'迪克西势家,奥勒留,统称,此条目自治邦'中的'奥勒留'是'奥勒留'的意思吗？",
+                "subjectType":"1",
+                "options":[
+
+                ]
+            }
         ]
-    },
-    ...
+    }
 }
 ```
 
