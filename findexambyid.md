@@ -29,11 +29,11 @@
 | standardScore | 达标分数线 | int | 2 | body |
 | totalNum | 试题总数 | int | 2 | body |
 | examTime | 考试时长 | string | 2 | body |
-| subjectLinks | 试题信息 | 对象数组 | 2 | body |
-| examId | 试卷Id | long | 3 | subjectLinks |
-| examSubjectId | 试卷习题ID | 对象数组 | 3 | subjectLinks |
-| subjectId | 题目id | long | 3 | subjectLinks |
-| subjectIndex | 题目序号 | long | 3 | subjectLinks |
+| subjectList | 试题信息 | 对象数组 | 2 | body |
+| examId | 试卷Id | long | 3 | subjectList|
+| examSubjectId | 试卷习题ID | 对象数组 | 3 | subjectList|
+| subjectId | 题目id | long | 3 | subjectList|
+| subjectIndex | 题目序号 | long | 3 | subjectList|
 
 * 样例返回
 
