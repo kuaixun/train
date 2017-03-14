@@ -32,8 +32,18 @@
 | subjectList | 试题信息 | 对象数组 | 2 | body |
 | examId | 试卷Id | long | 3 | subjectList|
 | examSubjectId | 试卷习题ID | 对象数组 | 3 | subjectList|
-| subjectId | 题目id | long | 3 | subjectList|
-| subjectIndex | 题目序号 | long | 3 | subjectList|
+| answer| 正确答案 | string| 3 | subjectList|
+| degree| 难度系数 | int| 3 | subjectList|
+| subjectId| ID | long| 3 | subjectList|
+| score| 默认分数 | int| 3 | subjectList|
+| subjectTitle| 题干 | string| 3 | subjectList|
+| subjectType| 1-判断题，2-单选，3-多选，4-简答题 | int| 3 | subjectList|
+| options| 选项| 对象数组| 3 | subjectList|
+| optionId| 选项ID | long| 4 | options|
+| optionDesc| 描述 | string| 4 | options|
+| optionFlag|选项标识| string| 4 | options|
+| sort| 排序 | int| 4 | options|
+| score| 分数 | int| 4 | options|
 
 * 样例返回
 
