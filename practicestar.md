@@ -53,7 +53,7 @@
                 "degree":"3",
                 "subjectId":"10098706",
                 "score":"3",
-                "subjectTitle":"'军力同年,索契,翻译自,捕食神圣性'中的'索契'的意思是：",
+                "subjectTitle":"'军力同年：",
                 "subjectType":"2",
                 "options":[
                     {
