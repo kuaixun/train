@@ -39,21 +39,21 @@
 
 ```
 {
-"method":"startPractice",
-"result":
-    {
-    "code": "0",
-    "message": "SUCCESS"
-    },
-"body":
-    {
-        "examName":"试卷名称",
-        "subjectLinks":
-        [
-            {"subjectId":123},
-            ...
-        ]
-    },
+    "method":"startPractice",
+    "result":
+        {
+        "code": "0",
+        "message": "SUCCESS"
+        },
+    "body":
+        {
+            "examName":"试卷名称",
+            "subjectLinks":
+            [
+                {"subjectId":123},
+                ...
+            ]
+        },
     ...
 }
 ```
