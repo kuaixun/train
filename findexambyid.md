@@ -75,32 +75,98 @@
                 "subjectTitle":"'迪克西势家,奥勒留,统称,此条目自治邦'中的'奥勒留'是'奥勒留'的意思吗？",
                 "subjectType":"1",
                 "options":[
-
-                ]
-            },
-            {
-                "answer":"1",
-                "degree":"1",
-                "subjectId":"10000151",
-                "score":"3",
-                "subjectTitle":"'迪克西势家,奥勒留,统称,此条目自治邦'中的'奥勒留'是'奥勒留'的意思吗？",
-                "subjectType":"1",
-                "options":[
-
-                ]
-            },
-            {
-                "answer":"1",
-                "degree":"1",
-                "subjectId":"10000151",
-                "score":"3",
-                "subjectTitle":"'迪克西势家,奥勒留,统称,此条目自治邦'中的'奥勒留'是'奥勒留'的意思吗？",
-                "subjectType":"1",
-                "options":[
+                    {
                         "optionId":"10285208",
                         "optionDesc":"665",
                         "optionFlag":"A",
                         "sort":"0"
+                    },
+                    {
+                        "optionId":"10285209",
+                        "optionDesc":"210",
+                        "optionFlag":"B",
+                        "sort":"1"
+                    },
+                    {
+                        "optionId":"10285210",
+                        "optionDesc":"三一神",
+                        "optionFlag":"C",
+                        "sort":"2"
+                    },
+                    {
+                        "optionId":"10285211",
+                        "optionDesc":"336",
+                        "optionFlag":"D",
+                        "sort":"3"
+                    }
+                ]
+            },
+            {
+                "answer":"1",
+                "degree":"1",
+                "subjectId":"10000151",
+                "score":"3",
+                "subjectTitle":"'迪克西势家,奥勒留,统称,此条目自治邦'中的'奥勒留'是'奥勒留'的意思吗？",
+                "subjectType":"1",
+                "options":[
+                    {
+                        "optionId":"10285208",
+                        "optionDesc":"665",
+                        "optionFlag":"A",
+                        "sort":"0"
+                    },
+                    {
+                        "optionId":"10285209",
+                        "optionDesc":"210",
+                        "optionFlag":"B",
+                        "sort":"1"
+                    },
+                    {
+                        "optionId":"10285210",
+                        "optionDesc":"三一神",
+                        "optionFlag":"C",
+                        "sort":"2"
+                    },
+                    {
+                        "optionId":"10285211",
+                        "optionDesc":"336",
+                        "optionFlag":"D",
+                        "sort":"3"
+                    }
+                ]
+            },
+            {
+                "answer":"1",
+                "degree":"1",
+                "subjectId":"10000151",
+                "score":"3",
+                "subjectTitle":"'迪克西势家,奥勒留,统称,此条目自治邦'中的'奥勒留'是'奥勒留'的意思吗？",
+                "subjectType":"1",
+                "options":[
+                    {
+                        "optionId":"10285208",
+                        "optionDesc":"665",
+                        "optionFlag":"A",
+                        "sort":"0"
+                    },
+                    {
+                        "optionId":"10285209",
+                        "optionDesc":"210",
+                        "optionFlag":"B",
+                        "sort":"1"
+                    },
+                    {
+                        "optionId":"10285210",
+                        "optionDesc":"三一神",
+                        "optionFlag":"C",
+                        "sort":"2"
+                    },
+                    {
+                        "optionId":"10285211",
+                        "optionDesc":"336",
+                        "optionFlag":"D",
+                        "sort":"3"
+                    }
                 ]
             }
         ]
