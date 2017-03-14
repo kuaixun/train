@@ -50,9 +50,13 @@
         "message": "Operation is successful"
         },
     "body":
+        notDoList：
         [
-           { "lessonSubject":"语文"},
-            ...
-        ] 
+            {}
+        ],
+        doneList:
+        [
+            {}
+        ]
     }
 
