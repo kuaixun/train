@@ -80,6 +80,40 @@
                 }
             ]
         },
+        {
+            "answer":"B",
+            "degree":"2",
+            "subjectId":"10098709",
+            "score":"1",
+            "subjectTitle":"'红色蒙宗：",
+            "subjectType":"2",
+            "options":[
+                {
+                    "optionId":"10285212",
+                    "optionDesc":"339",
+                    "optionFlag":"A",
+                    "sort":"0"
+                },
+                {
+                    "optionId":"10285213",
+                    "optionDesc":"公牛",
+                    "optionFlag":"B",
+                    "sort":"1"
+                },
+                {
+                    "optionId":"10285214",
+                    "optionDesc":"249",
+                    "optionFlag":"C",
+                    "sort":"2"
+                },
+                {
+                    "optionId":"10285215",
+                    "optionDesc":"781",
+                    "optionFlag":"D",
+                    "sort":"3"
+                }
+            ]
+        }
     ...
 }
 ```
