@@ -22,7 +22,7 @@
 | message | 返回说明 | string | 2 | result |
 | body | 返回消息体 | 对象 | 1 | - |
 | subjectList| 练习题列表 | 对象数组 | 2 | body |
-| answer| 正确答案 | int| 3 | subjectList|
+| answer| 正确答案 | string| 3 | subjectList|
 | degree| 难度系数 | int| 3 | subjectList|
 | subjectId| ID | long| 3 | subjectList|
 | score| 默认分数 | int| 3 | subjectList|
