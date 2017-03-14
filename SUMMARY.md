@@ -22,6 +22,5 @@
 ## 课堂-考试接口列表
 
 * [试卷列表](examsnotdo.md)
-* [已考试卷列表](examshasdone.md)
 * [获取具体试卷](findexambyid.md)
 
