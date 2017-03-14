@@ -47,11 +47,37 @@
         },
     "body":
         {
-            "examName":"试卷名称",
-            "subjectLinks":
-            [
-                {"subjectId":123},
-                ...
+            "answer":"C",
+            "degree":"3",
+            "subjectId":"10098706",
+            "score":"3",
+            "subjectTitle":"'军力同年：",
+            "subjectType":"2",
+            "options":[
+                {
+                    "optionId":"10285204",
+                    "optionDesc":"949",
+                    "optionFlag":"A",
+                    "sort":"0"
+                },
+                {
+                    "optionId":"10285205",
+                    "optionDesc":"242",
+                    "optionFlag":"B",
+                    "sort":"1"
+                },
+                {
+                    "optionId":"10285206",
+                    "optionDesc":"索契",
+                    "optionFlag":"C",
+                    "sort":"2"
+                },
+                {
+                    "optionId":"10285207",
+                    "optionDesc":"300",
+                    "optionFlag":"D",
+                    "sort":"3"
+                }
             ]
         },
     ...
