@@ -27,7 +27,7 @@
 | subjectId| ID | long| 3 | subjectList|
 | score| 默认分数 | int| 3 | subjectList|
 | subjectTitle| 题干 | string| 3 | subjectList|
-| subjectType| 题型 | int| 3 | subjectList|
+| subjectType| 1-判断题，2-单选，3-多选，4-简答题 | int| 3 | subjectList|
 | options| 选项| int| 3 | subjectList|
 | totalCount| 题目总数 | int| 4 | options|
 | totalCount| 题目总数 | int| 4 | options|
