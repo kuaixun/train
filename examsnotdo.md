@@ -30,7 +30,7 @@
 | selectOneNum | 单选题数量 | int | 3 | notDoList|
 | standardScore | 达标分数线 | int | 3 | notDoList|
 | during| 考试时长| int | 3 | doneList|
-| examId| 试卷ID | long | 3 | doneList|
+| examUserLogId| 试卷ID | long | 3 | doneList|
 | examLimitTime| 考试终止时间 | string | 3 | doneList|
 | examStartTime| 考试开始时间 | string | 3 | doneList|
 | examEndTime| 考试结束时间 | string | 3 | doneList|
