@@ -28,7 +28,7 @@
 | questionNum | 简答题数量 | int | 3 | notDoList|
 | selectManyNum | 多选题数量 | int | 3 | notDoList|
 | selectOneNum | 单选题数量 | int | 3 | notDoList|
-| standardScore | 达标分数线 | int | 2 | notDoList|
+| standardScore | 达标分数线 | int | 3 | notDoList|
 
 
 
