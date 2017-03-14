@@ -23,5 +23,5 @@
 
 * [试卷列表](examsnotdo.md)
 * [获取具体试卷](findexambyid.md)
-* [practiceStar](practicestar.md)
+* [开始练习](practicestar.md)
 
