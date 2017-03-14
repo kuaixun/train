@@ -33,7 +33,7 @@
 | optionDesc| 描述 | string| 4 | options|
 | optionFlag|选项标识| string| 4 | options|
 | sort| 排序 | int| 4 | options|
-
+| score| 分数 | int| 4 | options|
 
 * 样例返回
 
