@@ -29,10 +29,10 @@
 | subjectTitle| 题干 | string| 3 | subjectList|
 | subjectType| 1-判断题，2-单选，3-多选，4-简答题 | int| 3 | subjectList|
 | options| 选项| int| 3 | subjectList|
-| totalCount| 题目总数 | int| 4 | options|
-| totalCount| 题目总数 | int| 4 | options|
-| totalCount| 题目总数 | int| 4 | options|
-| totalCount| 题目总数 | int| 4 | options|
+| optionId| 选项ID | long| 4 | options|
+| optionDesc| 描述 | string| 4 | options|
+| optionFlag|选项标识| string| 4 | options|
+| sort| 排序 | int| 4 | options|
 
 
 * 样例返回
