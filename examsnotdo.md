@@ -52,39 +52,39 @@
         "message": "SUCCESS"
         },
     "body":
-        {
-        "notDoList":[
             {
-                "examTime":"36",
-                "examId":"10000151",
-                "judgeNum":"9",
-                "questionNum":"1",
-                "selectManyNum":"6",
-                "selectOneNum":"7",
-                "standardScore":"100"
-            },
-            {
-                "examTime":"57",
-                "examId":"10000150",
-                "judgeNum":"9",
-                "questionNum":"0",
-                "selectManyNum":"5",
-                "selectOneNum":"7",
-                "standardScore":"100"
-            },
-            {
-                "examTime":"52",
-                "examId":"10000189",
-                "judgeNum":"7",
-                "questionNum":"1",
-                "selectManyNum":"8",
-                "selectOneNum":"6",
-                "standardScore":"100"
-            }
-        ],
-        "doneList":[
-
-        ]
-    }
+            "notDoList":[
+                {
+                    "examTime":"36",
+                    "examId":"10000151",
+                    "judgeNum":"9",
+                    "questionNum":"1",
+                    "selectManyNum":"6",
+                    "selectOneNum":"7",
+                    "standardScore":"100"
+                },
+                {
+                    "examTime":"57",
+                    "examId":"10000150",
+                    "judgeNum":"9",
+                    "questionNum":"0",
+                    "selectManyNum":"5",
+                    "selectOneNum":"7",
+                    "standardScore":"100"
+                },
+                {
+                    "examTime":"52",
+                    "examId":"10000189",
+                    "judgeNum":"7",
+                    "questionNum":"1",
+                    "selectManyNum":"8",
+                    "selectOneNum":"6",
+                    "standardScore":"100"
+                }
+            ],
+            "doneList":[
+    
+            ]
+        }
     }
 
