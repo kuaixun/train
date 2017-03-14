@@ -48,8 +48,8 @@
     "method":"findExamsNotDo",
         "result":
         {
-        "code": "1",
-        "message": "Operation is successful"
+        "code": "0",
+        "message": "SUCCESS"
         },
     "body":
         notDoList：
